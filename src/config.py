@@ -20,8 +20,36 @@ DOCS_DIR = BASE_DIR / "docs"
 ENV_PATH = BASE_DIR / ".env"
 load_dotenv(dotenv_path=ENV_PATH)
 
+
+def get_gemini_api_key() -> str:
+    """
+    Safely retrieves the Gemini API key.
+    Preferred behavior:
+    1. First check the existing environment-variable mechanism (os.getenv).
+    2. If not present in environment variables, safely check Streamlit Secrets (st.secrets["GEMINI_API_KEY"]).
+    Never raises exceptions if secrets or Streamlit are unavailable.
+    """
+    # 1. First support existing environment-variable mechanism
+    key = os.getenv("GEMINI_API_KEY", "").strip()
+    if key:
+        return key
+
+    # 2. Safely support Streamlit Community Cloud Secrets
+    try:
+        import streamlit as st
+        if hasattr(st, "secrets") and "GEMINI_API_KEY" in st.secrets:
+            secret_val = st.secrets["GEMINI_API_KEY"]
+            if secret_val and isinstance(secret_val, str) and secret_val.strip():
+                return secret_val.strip()
+    except Exception:
+        # Gracefully pass if Streamlit is not installed, secrets.toml does not exist, etc.
+        pass
+
+    return ""
+
+
 # Core Settings
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
+GEMINI_API_KEY = get_gemini_api_key()
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 DEFAULT_GENERATION_TEMPERATURE = float(os.getenv("DEFAULT_GENERATION_TEMPERATURE", "0.2"))
 MAX_CONTEXT_RESULTS = int(os.getenv("MAX_CONTEXT_RESULTS", "5"))

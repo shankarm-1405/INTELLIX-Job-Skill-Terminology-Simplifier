@@ -14,6 +14,7 @@ from src.config import (
     DATA_DIR,
     DOCS_DIR,
     KNOWLEDGE_BASE_DIR,
+    get_gemini_api_key,
     sanitize_error_message,
     validate_config,
 )
@@ -216,3 +217,30 @@ def test_16_knowledge_base_files_remain_read_only():
         assert isinstance(data, list)
         total_records += len(data)
     assert total_records == 60, f"Expected 60 records across knowledge base, found {total_records}"
+
+
+def test_17_gemini_api_key_loading_from_env_and_streamlit_secrets():
+    """Verifies GEMINI_API_KEY resolution supports environment variables and Streamlit Secrets safely."""
+    import os
+    from unittest.mock import patch
+    import streamlit as st
+
+    # 1. Verification from environment variable
+    with patch.dict(os.environ, {"GEMINI_API_KEY": "test_env_key_12345"}):
+        assert get_gemini_api_key() == "test_env_key_12345"
+
+    # 2. Verification from Streamlit Secrets fallback when env is empty
+    with patch.dict(os.environ, {"GEMINI_API_KEY": ""}):
+        with patch.object(st, "secrets", {"GEMINI_API_KEY": "test_secret_key_67890"}):
+            assert get_gemini_api_key() == "test_secret_key_67890"
+
+    # 3. Verification when both are absent (produces safe empty string without exceptions)
+    with patch.dict(os.environ, {"GEMINI_API_KEY": ""}):
+        with patch.object(st, "secrets", {}):
+            assert get_gemini_api_key() == ""
+
+    # 4. Verification that missing key does not leak credentials in error output
+    is_valid, msg = validate_config(require_api_key=True)
+    assert isinstance(is_valid, bool)
+    assert "AIza" not in msg
+

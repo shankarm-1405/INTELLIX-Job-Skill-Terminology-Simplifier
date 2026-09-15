@@ -19,6 +19,7 @@ from src.config import (
     DEFAULT_GENERATION_TEMPERATURE,
     GEMINI_API_KEY,
     GEMINI_MODEL,
+    get_gemini_api_key,
     sanitize_error_message,
 )
 from src.generator.models import GeneratedAnswer
@@ -61,7 +62,7 @@ class TerminologyGenerator:
         temperature: Optional[float] = None,
         client: Optional[Any] = None,
     ):
-        self.api_key = api_key or GEMINI_API_KEY
+        self.api_key = api_key or get_gemini_api_key() or GEMINI_API_KEY
         self.model_name = model_name or GEMINI_MODEL
         self.temperature = temperature if temperature is not None else DEFAULT_GENERATION_TEMPERATURE
         self.client = client
