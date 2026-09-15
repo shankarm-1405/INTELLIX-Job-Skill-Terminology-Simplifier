@@ -3,6 +3,7 @@ EMP-12 Prompt Builder Module
 Assembles system instructions and grounded context prompts for Gemini LLM synthesis.
 """
 
+from typing import Any, Optional
 from typing import List, Tuple
 from src.retrieval.models import SearchResult
 
