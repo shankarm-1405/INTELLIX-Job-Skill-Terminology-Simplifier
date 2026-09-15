@@ -4,12 +4,15 @@ Performs deterministic verification of generated answers against retrieved evide
 to detect unsupported terminology, mismatched categories, and hallucinated citations.
 """
 
-from typing import List, Set
+from typing import List, Set, Tuple
 from src.config import SUPPORTED_CATEGORIES
 from src.generator.models import GeneratedAnswer
 from src.guardrails.models import GroundingValidationResult
 from src.guardrails.scope import normalize_query
 from src.retrieval.models import SearchResult
+
+# Type alias helper
+Tuple_Sources = Tuple[bool, List[str]]
 
 
 def is_term_compatible(gen_term: str, res_term: str) -> bool:
@@ -68,10 +71,6 @@ def validate_sources_against_evidence(
             unsupported.append(src)
 
     return len(unsupported) == 0, unsupported
-
-
-# Type alias helper
-Tuple_Sources = tuple[bool, List[str]]
 
 
 def validate_grounding(
