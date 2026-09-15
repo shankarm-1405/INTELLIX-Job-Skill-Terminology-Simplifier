@@ -19,7 +19,7 @@ if str(BASE_DIR) not in sys.path:
 
 from src.application.glossary import GlossaryService
 from src.application.service import TerminologyService
-from src.config import GEMINI_API_KEY, SUPPORTED_CATEGORIES, get_gemini_api_key
+from src.config import GEMINI_API_KEY, SUPPORTED_CATEGORIES
 from src.ui.components import (
     format_copy_text,
     format_fallback_guidance,
@@ -125,8 +125,7 @@ st.markdown(
     "by real-world examples and verifiable citations."
 )
 
-active_api_key = get_gemini_api_key() or GEMINI_API_KEY
-if not active_api_key:
+if not GEMINI_API_KEY:
     st.info(
         "ℹ️ **Configuration Notice**: `GEMINI_API_KEY` is not set. You can explore all 60 terms in the "
         "Glossary Explorer below. Set `GEMINI_API_KEY` in your environment, `.env` file, or Streamlit Secrets to enable grounded AI explanations."
