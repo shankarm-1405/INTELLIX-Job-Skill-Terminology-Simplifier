@@ -1,0 +1,36 @@
+# Python Bytecode and Caches
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables and Sensitive Keys
+.env
+.env.*
+*.env
+*.env.local
+!.env.example
+
+# Vector Indices and Embeddings Cache
+models/cache/
+*.pkl
+
+# Streamlit Settings and Secrets
+.streamlit/secrets.toml
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Settings
+.vscode/
+.idea/

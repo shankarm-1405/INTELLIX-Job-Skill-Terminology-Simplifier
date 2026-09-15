@@ -1,0 +1,1588 @@
+[
+  {
+    "id": "role_software_developer",
+    "term": "Software Developer",
+    "category": "Job Roles",
+    "short_definition": "A professional who designs, codes, tests, and maintains computer software applications and systems.",
+    "simple_explanation": "A software developer is like an architect and builder for digital tools. They write instructions in programming languages that tell computers, smartphones, and servers how to run applications like web browsers, games, or business systems.",
+    "job_context": "Software developer is one of the most common titles on technical job boards. Postings typically require proficiency in at least one programming language (such as Python, Java, or JavaScript), familiarity with version control, and problem-solving skills.",
+    "example": "A junior software developer at a retail company writes code to add a shopping cart feature to the company's mobile application and fixes bugs reported by users.",
+    "related_skills": [
+      "Programming",
+      "Git",
+      "Problem Solving",
+      "Debugging",
+      "Testing"
+    ],
+    "related_terms": [
+      "Full Stack Developer",
+      "Backend Developer",
+      "Frontend Developer",
+      "Source Code",
+      "Software Development Life Cycle"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "U.S. Bureau of Labor Statistics (BLS) Occupational Outlook Handbook - Software Developers",
+    "searchable_text": "Term: Software Developer\n\nCategory: Job Roles\n\nShort Definition:\nA professional who designs, codes, tests, and maintains computer software applications and systems.\n\nSimple Explanation:\nA software developer is like an architect and builder for digital tools. They write instructions in programming languages that tell computers, smartphones, and servers how to run applications like web browsers, games, or business systems.\n\nJob Context:\nSoftware developer is one of the most common titles on technical job boards. Postings typically require proficiency in at least one programming language (such as Python, Java, or JavaScript), familiarity with version control, and problem-solving skills.\n\nExample:\nA junior software developer at a retail company writes code to add a shopping cart feature to the company's mobile application and fixes bugs reported by users.\n\nRelated Skills:\nProgramming, Git, Problem Solving, Debugging, Testing\n\nRelated Terms:\nFull Stack Developer, Backend Developer, Frontend Developer, Source Code, Software Development Life Cycle\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nU.S. Bureau of Labor Statistics (BLS) Occupational Outlook Handbook - Software Developers"
+  },
+  {
+    "id": "role_full_stack_developer",
+    "term": "Full Stack Developer",
+    "category": "Job Roles",
+    "short_definition": "An engineer who works on both the user-facing interface and the underlying server, database, and business logic of an application.",
+    "simple_explanation": "Think of a restaurant: the dining room is what customers see, and the kitchen is where meals are prepared. A full stack developer is skilled enough to design the dining room layout and cook the meals in the kitchen, handling both front-end and back-end duties.",
+    "job_context": "Full stack developer job listings often look for versatile candidates who can build complete web features end-to-end, commonly requiring a combination of HTML, CSS, JavaScript, a server language like Python or Node.js, and SQL databases.",
+    "example": "A full stack developer creates a user sign-up webpage in React and writes the server API in Python that saves the user's account details into a PostgreSQL database.",
+    "related_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Python",
+      "SQL",
+      "REST API"
+    ],
+    "related_terms": [
+      "Frontend Developer",
+      "Backend Developer",
+      "Database",
+      "API",
+      "Web Application"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "Software Development",
+    "source": "O*NET OnLine - 15-1254.00 Web Developers and Digital Interface Designers",
+    "searchable_text": "Term: Full Stack Developer\n\nCategory: Job Roles\n\nShort Definition:\nAn engineer who works on both the user-facing interface and the underlying server, database, and business logic of an application.\n\nSimple Explanation:\nThink of a restaurant: the dining room is what customers see, and the kitchen is where meals are prepared. A full stack developer is skilled enough to design the dining room layout and cook the meals in the kitchen, handling both front-end and back-end duties.\n\nJob Context:\nFull stack developer job listings often look for versatile candidates who can build complete web features end-to-end, commonly requiring a combination of HTML, CSS, JavaScript, a server language like Python or Node.js, and SQL databases.\n\nExample:\nA full stack developer creates a user sign-up webpage in React and writes the server API in Python that saves the user's account details into a PostgreSQL database.\n\nRelated Skills:\nJavaScript, HTML, CSS, Python, SQL, REST API\n\nRelated Terms:\nFrontend Developer, Backend Developer, Database, API, Web Application\n\nDifficulty:\nIntermediate\n\nDomain:\nSoftware Development\n\nSource:\nO*NET OnLine - 15-1254.00 Web Developers and Digital Interface Designers"
+  },
+  {
+    "id": "role_frontend_developer",
+    "term": "Frontend Developer",
+    "category": "Job Roles",
+    "short_definition": "A developer who specializes in building the visual, interactive parts of websites and applications that users interact with directly.",
+    "simple_explanation": "A frontend developer creates everything you see and touch on a screen, including buttons, menus, layouts, and animations. Their primary goal is making sure the app looks great, loads quickly, and is easy for anyone to navigate.",
+    "job_context": "Job postings for frontend developers focus heavily on user interface construction, cross-browser compatibility, responsive web design for mobile devices, and collaboration with UI/UX designers.",
+    "example": "A frontend developer converts a design mockup into a responsive website using HTML, CSS, and JavaScript so that the site looks clean on both laptops and phones.",
+    "related_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Responsive Design",
+      "UI Frameworks"
+    ],
+    "related_terms": [
+      "UI/UX Designer",
+      "User Interface",
+      "Web Application",
+      "Full Stack Developer",
+      "Browser Compatibility"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Web Development",
+    "source": "W3C Web Standards & O*NET OnLine 15-1254.00",
+    "searchable_text": "Term: Frontend Developer\n\nCategory: Job Roles\n\nShort Definition:\nA developer who specializes in building the visual, interactive parts of websites and applications that users interact with directly.\n\nSimple Explanation:\nA frontend developer creates everything you see and touch on a screen, including buttons, menus, layouts, and animations. Their primary goal is making sure the app looks great, loads quickly, and is easy for anyone to navigate.\n\nJob Context:\nJob postings for frontend developers focus heavily on user interface construction, cross-browser compatibility, responsive web design for mobile devices, and collaboration with UI/UX designers.\n\nExample:\nA frontend developer converts a design mockup into a responsive website using HTML, CSS, and JavaScript so that the site looks clean on both laptops and phones.\n\nRelated Skills:\nHTML, CSS, JavaScript, Responsive Design, UI Frameworks\n\nRelated Terms:\nUI/UX Designer, User Interface, Web Application, Full Stack Developer, Browser Compatibility\n\nDifficulty:\nBeginner\n\nDomain:\nWeb Development\n\nSource:\nW3C Web Standards & O*NET OnLine 15-1254.00"
+  },
+  {
+    "id": "role_backend_developer",
+    "term": "Backend Developer",
+    "category": "Job Roles",
+    "short_definition": "A developer who builds and maintains the core business logic, databases, servers, and APIs that power an application behind the scenes.",
+    "simple_explanation": "If an application were a car, the backend developer builds the engine, transmission, and fuel lines. You do not see their work directly on the screen, but without it, buttons would not save data and searches would return nothing.",
+    "job_context": "Backend developer postings emphasize server-side languages (Java, Python, C#, Go), database optimization, API design, security, and scalability under heavy user traffic.",
+    "example": "A backend developer writes code that securely processes credit card payments, updates inventory quantities in the database, and sends email receipts to buyers.",
+    "related_skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "REST API",
+      "Database Management"
+    ],
+    "related_terms": [
+      "Database",
+      "Server",
+      "API",
+      "Microservices",
+      "Full Stack Developer"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "Software Development",
+    "source": "IEEE Computer Society Software Engineering Taxonomy",
+    "searchable_text": "Term: Backend Developer\n\nCategory: Job Roles\n\nShort Definition:\nA developer who builds and maintains the core business logic, databases, servers, and APIs that power an application behind the scenes.\n\nSimple Explanation:\nIf an application were a car, the backend developer builds the engine, transmission, and fuel lines. You do not see their work directly on the screen, but without it, buttons would not save data and searches would return nothing.\n\nJob Context:\nBackend developer postings emphasize server-side languages (Java, Python, C#, Go), database optimization, API design, security, and scalability under heavy user traffic.\n\nExample:\nA backend developer writes code that securely processes credit card payments, updates inventory quantities in the database, and sends email receipts to buyers.\n\nRelated Skills:\nPython, Java, SQL, REST API, Database Management\n\nRelated Terms:\nDatabase, Server, API, Microservices, Full Stack Developer\n\nDifficulty:\nIntermediate\n\nDomain:\nSoftware Development\n\nSource:\nIEEE Computer Society Software Engineering Taxonomy"
+  },
+  {
+    "id": "role_data_analyst",
+    "term": "Data Analyst",
+    "category": "Job Roles",
+    "short_definition": "A professional who gathers, cleans, and evaluates data to identify trends and help organizations make better business decisions.",
+    "simple_explanation": "A data analyst is like a detective for business numbers. They take messy spreadsheets and database tables, find meaningful patterns, and create charts that explain to company leaders what happened and what to do next.",
+    "job_context": "Data analyst openings are found in nearly every industry, from finance to healthcare. Requirements commonly include SQL for pulling data, Excel for quick calculations, and visualization tools like Tableau or Power BI.",
+    "example": "A data analyst examines customer purchase records to determine which products sell best during holiday sales and presents their findings to the marketing team.",
+    "related_skills": [
+      "SQL",
+      "Data Cleaning",
+      "Data Visualization",
+      "Excel",
+      "Statistics"
+    ],
+    "related_terms": [
+      "Data Scientist",
+      "Database",
+      "Business Intelligence",
+      "Analytics",
+      "Spreadsheet"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Data Science",
+    "source": "U.S. Bureau of Labor Statistics (BLS) - Data Analysts and Mathematical Science Occupations",
+    "searchable_text": "Term: Data Analyst\n\nCategory: Job Roles\n\nShort Definition:\nA professional who gathers, cleans, and evaluates data to identify trends and help organizations make better business decisions.\n\nSimple Explanation:\nA data analyst is like a detective for business numbers. They take messy spreadsheets and database tables, find meaningful patterns, and create charts that explain to company leaders what happened and what to do next.\n\nJob Context:\nData analyst openings are found in nearly every industry, from finance to healthcare. Requirements commonly include SQL for pulling data, Excel for quick calculations, and visualization tools like Tableau or Power BI.\n\nExample:\nA data analyst examines customer purchase records to determine which products sell best during holiday sales and presents their findings to the marketing team.\n\nRelated Skills:\nSQL, Data Cleaning, Data Visualization, Excel, Statistics\n\nRelated Terms:\nData Scientist, Database, Business Intelligence, Analytics, Spreadsheet\n\nDifficulty:\nBeginner\n\nDomain:\nData Science\n\nSource:\nU.S. Bureau of Labor Statistics (BLS) - Data Analysts and Mathematical Science Occupations"
+  },
+  {
+    "id": "role_data_scientist",
+    "term": "Data Scientist",
+    "category": "Job Roles",
+    "short_definition": "A specialist who applies advanced mathematics, statistics, and machine learning techniques to extract actionable insights and build predictive models from complex data.",
+    "simple_explanation": "While a data analyst explains what happened in the past, a data scientist builds predictive algorithms to forecast what will happen in the future. They design automated systems to recognize patterns in huge volumes of unstructured data.",
+    "job_context": "Job descriptions for data scientists usually ask for programming expertise in Python or R, solid foundations in probability and statistics, and experience training predictive machine learning models.",
+    "example": "A data scientist at a music streaming service develops an algorithm that analyzes a listener's song history to automatically recommend new artists they will enjoy.",
+    "related_skills": [
+      "Python",
+      "Machine Learning",
+      "Statistics",
+      "Data Modeling",
+      "SQL"
+    ],
+    "related_terms": [
+      "Data Analyst",
+      "Machine Learning Engineer",
+      "Deep Learning",
+      "Predictive Modeling",
+      "Algorithm"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "Data Science",
+    "source": "National Institute of Standards and Technology (NIST) Special Publication on Data Science",
+    "searchable_text": "Term: Data Scientist\n\nCategory: Job Roles\n\nShort Definition:\nA specialist who applies advanced mathematics, statistics, and machine learning techniques to extract actionable insights and build predictive models from complex data.\n\nSimple Explanation:\nWhile a data analyst explains what happened in the past, a data scientist builds predictive algorithms to forecast what will happen in the future. They design automated systems to recognize patterns in huge volumes of unstructured data.\n\nJob Context:\nJob descriptions for data scientists usually ask for programming expertise in Python or R, solid foundations in probability and statistics, and experience training predictive machine learning models.\n\nExample:\nA data scientist at a music streaming service develops an algorithm that analyzes a listener's song history to automatically recommend new artists they will enjoy.\n\nRelated Skills:\nPython, Machine Learning, Statistics, Data Modeling, SQL\n\nRelated Terms:\nData Analyst, Machine Learning Engineer, Deep Learning, Predictive Modeling, Algorithm\n\nDifficulty:\nIntermediate\n\nDomain:\nData Science\n\nSource:\nNational Institute of Standards and Technology (NIST) Special Publication on Data Science"
+  },
+  {
+    "id": "role_machine_learning_engineer",
+    "term": "Machine Learning Engineer",
+    "category": "Job Roles",
+    "short_definition": "An engineer who builds, trains, deploys, and monitors machine learning models inside production software environments.",
+    "simple_explanation": "A machine learning engineer bridges the gap between data science theory and software engineering. They take experimental AI algorithms created by data scientists and turn them into fast, reliable software systems that handle millions of live user requests.",
+    "job_context": "Machine learning engineer roles combine software development skills with AI knowledge, requiring proficiency in Python, containerization (Docker), model serving pipelines, and cloud computing.",
+    "example": "A machine learning engineer packages a computer vision model into an API container so a smartphone camera app can detect documents and scan them in real time.",
+    "related_skills": [
+      "Python",
+      "Machine Learning",
+      "Docker",
+      "Model Deployment",
+      "Cloud Computing"
+    ],
+    "related_terms": [
+      "Data Scientist",
+      "Deep Learning",
+      "DevOps",
+      "Algorithm",
+      "Artificial Intelligence"
+    ],
+    "difficulty": "Advanced",
+    "domain": "Data Science",
+    "source": "ACM Computing Classification System - Artificial Intelligence and Machine Learning",
+    "searchable_text": "Term: Machine Learning Engineer\n\nCategory: Job Roles\n\nShort Definition:\nAn engineer who builds, trains, deploys, and monitors machine learning models inside production software environments.\n\nSimple Explanation:\nA machine learning engineer bridges the gap between data science theory and software engineering. They take experimental AI algorithms created by data scientists and turn them into fast, reliable software systems that handle millions of live user requests.\n\nJob Context:\nMachine learning engineer roles combine software development skills with AI knowledge, requiring proficiency in Python, containerization (Docker), model serving pipelines, and cloud computing.\n\nExample:\nA machine learning engineer packages a computer vision model into an API container so a smartphone camera app can detect documents and scan them in real time.\n\nRelated Skills:\nPython, Machine Learning, Docker, Model Deployment, Cloud Computing\n\nRelated Terms:\nData Scientist, Deep Learning, DevOps, Algorithm, Artificial Intelligence\n\nDifficulty:\nAdvanced\n\nDomain:\nData Science\n\nSource:\nACM Computing Classification System - Artificial Intelligence and Machine Learning"
+  },
+  {
+    "id": "role_cloud_engineer",
+    "term": "Cloud Engineer",
+    "category": "Job Roles",
+    "short_definition": "An IT professional who plans, builds, configures, and manages computing infrastructure and services hosted on cloud platforms.",
+    "simple_explanation": "Instead of a company buying expensive physical server racks in an office closet, a cloud engineer rents secure computer power, storage, and networking over the internet from providers like Amazon Web Services or Microsoft Azure.",
+    "job_context": "Cloud engineer postings frequently demand experience with major cloud platforms (AWS, Azure, GCP), infrastructure automation, security access policies, and cost-monitoring tools.",
+    "example": "A cloud engineer sets up auto-scaling virtual servers on AWS so an e-commerce website stays online smoothly even when visitor traffic suddenly triples during a flash sale.",
+    "related_skills": [
+      "AWS",
+      "Linux",
+      "Networking",
+      "Security Management",
+      "Cloud Architecture"
+    ],
+    "related_terms": [
+      "DevOps Engineer",
+      "Cloud Computing",
+      "Infrastructure as Code",
+      "Deployment",
+      "Virtual Machine"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "Cloud Computing",
+    "source": "AWS Architecture Center & O*NET OnLine 15-1299.08 Computer Systems Engineers/Architects",
+    "searchable_text": "Term: Cloud Engineer\n\nCategory: Job Roles\n\nShort Definition:\nAn IT professional who plans, builds, configures, and manages computing infrastructure and services hosted on cloud platforms.\n\nSimple Explanation:\nInstead of a company buying expensive physical server racks in an office closet, a cloud engineer rents secure computer power, storage, and networking over the internet from providers like Amazon Web Services or Microsoft Azure.\n\nJob Context:\nCloud engineer postings frequently demand experience with major cloud platforms (AWS, Azure, GCP), infrastructure automation, security access policies, and cost-monitoring tools.\n\nExample:\nA cloud engineer sets up auto-scaling virtual servers on AWS so an e-commerce website stays online smoothly even when visitor traffic suddenly triples during a flash sale.\n\nRelated Skills:\nAWS, Linux, Networking, Security Management, Cloud Architecture\n\nRelated Terms:\nDevOps Engineer, Cloud Computing, Infrastructure as Code, Deployment, Virtual Machine\n\nDifficulty:\nIntermediate\n\nDomain:\nCloud Computing\n\nSource:\nAWS Architecture Center & O*NET OnLine 15-1299.08 Computer Systems Engineers/Architects"
+  },
+  {
+    "id": "role_devops_engineer",
+    "term": "DevOps Engineer",
+    "category": "Job Roles",
+    "short_definition": "A practitioner who bridges software development and IT operations by automating code testing, integration, deployment, and infrastructure monitoring.",
+    "simple_explanation": "Traditionally, coders wrote software and handed it to operations staff to run, which often led to delays and miscommunications. A DevOps engineer builds automated pipelines so code can be tested, packaged, and released to users continuously and safely.",
+    "job_context": "DevOps roles require a blend of coding and systems administration, heavily highlighting CI/CD automation, Docker containers, Kubernetes clusters, and monitoring tools.",
+    "example": "A DevOps engineer configures an automated pipeline that runs automated security checks and deploys new code to production within minutes of a developer merging their branch.",
+    "related_skills": [
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "Linux CLI"
+    ],
+    "related_terms": [
+      "Cloud Engineer",
+      "Deployment",
+      "Version Control",
+      "Continuous Integration",
+      "Site Reliability Engineering"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "DevOps",
+    "source": "IEEE Software Guide to Continuous Delivery and DevOps Practices",
+    "searchable_text": "Term: DevOps Engineer\n\nCategory: Job Roles\n\nShort Definition:\nA practitioner who bridges software development and IT operations by automating code testing, integration, deployment, and infrastructure monitoring.\n\nSimple Explanation:\nTraditionally, coders wrote software and handed it to operations staff to run, which often led to delays and miscommunications. A DevOps engineer builds automated pipelines so code can be tested, packaged, and released to users continuously and safely.\n\nJob Context:\nDevOps roles require a blend of coding and systems administration, heavily highlighting CI/CD automation, Docker containers, Kubernetes clusters, and monitoring tools.\n\nExample:\nA DevOps engineer configures an automated pipeline that runs automated security checks and deploys new code to production within minutes of a developer merging their branch.\n\nRelated Skills:\nCI/CD, Docker, Kubernetes, Git, Linux CLI\n\nRelated Terms:\nCloud Engineer, Deployment, Version Control, Continuous Integration, Site Reliability Engineering\n\nDifficulty:\nIntermediate\n\nDomain:\nDevOps\n\nSource:\nIEEE Software Guide to Continuous Delivery and DevOps Practices"
+  },
+  {
+    "id": "role_cybersecurity_analyst",
+    "term": "Cybersecurity Analyst",
+    "category": "Job Roles",
+    "short_definition": "A security professional who monitors, protects, and defends computer networks, systems, and data against cyber threats and unauthorized access.",
+    "simple_explanation": "A cybersecurity analyst is the digital security guard of an organization. They install protective software, watch for suspicious activity, test systems for weaknesses, and respond quickly if hackers try to break into company files.",
+    "job_context": "Cybersecurity analyst positions appear in government, finance, and corporate tech departments. Common requirements include understanding network protocols, firewall configurations, security compliance, and incident response procedures.",
+    "example": "A cybersecurity analyst notices unusual login attempts on employee accounts from an unfamiliar country, locks down the compromised accounts, and strengthens multi-factor authentication rules.",
+    "related_skills": [
+      "Network Security",
+      "Linux",
+      "Vulnerability Assessment",
+      "Incident Response",
+      "Authentication"
+    ],
+    "related_terms": [
+      "Information Security",
+      "Firewall",
+      "Penetration Testing",
+      "Encryption",
+      "Compliance"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "Cybersecurity",
+    "source": "NIST National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework",
+    "searchable_text": "Term: Cybersecurity Analyst\n\nCategory: Job Roles\n\nShort Definition:\nA security professional who monitors, protects, and defends computer networks, systems, and data against cyber threats and unauthorized access.\n\nSimple Explanation:\nA cybersecurity analyst is the digital security guard of an organization. They install protective software, watch for suspicious activity, test systems for weaknesses, and respond quickly if hackers try to break into company files.\n\nJob Context:\nCybersecurity analyst positions appear in government, finance, and corporate tech departments. Common requirements include understanding network protocols, firewall configurations, security compliance, and incident response procedures.\n\nExample:\nA cybersecurity analyst notices unusual login attempts on employee accounts from an unfamiliar country, locks down the compromised accounts, and strengthens multi-factor authentication rules.\n\nRelated Skills:\nNetwork Security, Linux, Vulnerability Assessment, Incident Response, Authentication\n\nRelated Terms:\nInformation Security, Firewall, Penetration Testing, Encryption, Compliance\n\nDifficulty:\nIntermediate\n\nDomain:\nCybersecurity\n\nSource:\nNIST National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework"
+  },
+  {
+    "id": "role_ui_ux_designer",
+    "term": "UI/UX Designer",
+    "category": "Job Roles",
+    "short_definition": "A designer who focuses on creating intuitive, accessible, and visually appealing user interfaces and overall product user experiences.",
+    "simple_explanation": "UX (User Experience) is how an app feels to use, making sure it makes sense and is easy to navigate. UI (User Interface) is how it looks, including colors, typography, buttons, and iconography. A UI/UX designer combines both to make apps a joy to use.",
+    "job_context": "Job requirements for UI/UX designers focus on user research, wireframing, creating interactive prototypes in tools like Figma, usability testing, and working closely with frontend developers.",
+    "example": "A UI/UX designer conducts interviews with elderly users to redesign a banking app with larger text, clearer buttons, and a simpler transfer workflow.",
+    "related_skills": [
+      "Wireframing",
+      "User Research",
+      "Prototyping",
+      "Figma",
+      "Usability Testing"
+    ],
+    "related_terms": [
+      "Frontend Developer",
+      "User Interface",
+      "User Experience",
+      "Accessibility",
+      "Design System"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Web Development",
+    "source": "Nielsen Norman Group (NN/g) UX Principles & Guidelines",
+    "searchable_text": "Term: UI/UX Designer\n\nCategory: Job Roles\n\nShort Definition:\nA designer who focuses on creating intuitive, accessible, and visually appealing user interfaces and overall product user experiences.\n\nSimple Explanation:\nUX (User Experience) is how an app feels to use, making sure it makes sense and is easy to navigate. UI (User Interface) is how it looks, including colors, typography, buttons, and iconography. A UI/UX designer combines both to make apps a joy to use.\n\nJob Context:\nJob requirements for UI/UX designers focus on user research, wireframing, creating interactive prototypes in tools like Figma, usability testing, and working closely with frontend developers.\n\nExample:\nA UI/UX designer conducts interviews with elderly users to redesign a banking app with larger text, clearer buttons, and a simpler transfer workflow.\n\nRelated Skills:\nWireframing, User Research, Prototyping, Figma, Usability Testing\n\nRelated Terms:\nFrontend Developer, User Interface, User Experience, Accessibility, Design System\n\nDifficulty:\nBeginner\n\nDomain:\nWeb Development\n\nSource:\nNielsen Norman Group (NN/g) UX Principles & Guidelines"
+  },
+  {
+    "id": "role_database_administrator",
+    "term": "Database Administrator",
+    "category": "Job Roles",
+    "short_definition": "An IT professional responsible for storing, organizing, securing, and ensuring continuous access to an organization's databases.",
+    "simple_explanation": "A database administrator (DBA) acts as the librarian and vault keeper for company data. They make sure data is properly organized, backups are created daily so nothing is lost, and authorized applications can access records quickly.",
+    "job_context": "DBA postings emphasize relational database management systems (Oracle, SQL Server, PostgreSQL, MySQL), disaster recovery planning, query tuning, and user permissions management.",
+    "example": "A database administrator schedules overnight data backups and optimizes SQL indexes so that searches across 10 million hospital patient records return in under half a second.",
+    "related_skills": [
+      "SQL",
+      "Database Optimization",
+      "Backup and Recovery",
+      "Security Permissions",
+      "Performance Tuning"
+    ],
+    "related_terms": [
+      "Database",
+      "Data Analyst",
+      "Backend Developer",
+      "Relational Database",
+      "Query Optimization"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "Software Development",
+    "source": "U.S. Bureau of Labor Statistics (BLS) - Database Administrators and Architects",
+    "searchable_text": "Term: Database Administrator\n\nCategory: Job Roles\n\nShort Definition:\nAn IT professional responsible for storing, organizing, securing, and ensuring continuous access to an organization's databases.\n\nSimple Explanation:\nA database administrator (DBA) acts as the librarian and vault keeper for company data. They make sure data is properly organized, backups are created daily so nothing is lost, and authorized applications can access records quickly.\n\nJob Context:\nDBA postings emphasize relational database management systems (Oracle, SQL Server, PostgreSQL, MySQL), disaster recovery planning, query tuning, and user permissions management.\n\nExample:\nA database administrator schedules overnight data backups and optimizes SQL indexes so that searches across 10 million hospital patient records return in under half a second.\n\nRelated Skills:\nSQL, Database Optimization, Backup and Recovery, Security Permissions, Performance Tuning\n\nRelated Terms:\nDatabase, Data Analyst, Backend Developer, Relational Database, Query Optimization\n\nDifficulty:\nIntermediate\n\nDomain:\nSoftware Development\n\nSource:\nU.S. Bureau of Labor Statistics (BLS) - Database Administrators and Architects"
+  },
+  {
+    "id": "tech_python",
+    "term": "Python",
+    "category": "Technical Skills",
+    "short_definition": "A versatile, high-level programming language known for clean, readable syntax and a massive ecosystem of libraries.",
+    "simple_explanation": "Python is designed to look like straightforward English text, which makes it one of the easiest languages for beginners to learn. It is used widely to build web backends, automate repetitive tasks, crunch data, and develop artificial intelligence models.",
+    "job_context": "Python is commonly listed as a mandatory or preferred skill for software development, data analysis, automation, machine learning, and cloud administration job openings.",
+    "example": "A data analyst writes a 20-line Python script using the pandas library to clean 50,000 spreadsheet rows and calculate monthly sales numbers in 3 seconds.",
+    "related_skills": [
+      "Programming",
+      "SQL",
+      "Git",
+      "Data Analysis",
+      "Problem Solving"
+    ],
+    "related_terms": [
+      "Programming Language",
+      "Data Scientist",
+      "Machine Learning",
+      "Software Developer",
+      "Scripting"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "Python Software Foundation Official Documentation (python.org)",
+    "searchable_text": "Term: Python\n\nCategory: Technical Skills\n\nShort Definition:\nA versatile, high-level programming language known for clean, readable syntax and a massive ecosystem of libraries.\n\nSimple Explanation:\nPython is designed to look like straightforward English text, which makes it one of the easiest languages for beginners to learn. It is used widely to build web backends, automate repetitive tasks, crunch data, and develop artificial intelligence models.\n\nJob Context:\nPython is commonly listed as a mandatory or preferred skill for software development, data analysis, automation, machine learning, and cloud administration job openings.\n\nExample:\nA data analyst writes a 20-line Python script using the pandas library to clean 50,000 spreadsheet rows and calculate monthly sales numbers in 3 seconds.\n\nRelated Skills:\nProgramming, SQL, Git, Data Analysis, Problem Solving\n\nRelated Terms:\nProgramming Language, Data Scientist, Machine Learning, Software Developer, Scripting\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nPython Software Foundation Official Documentation (python.org)"
+  },
+  {
+    "id": "tech_java",
+    "term": "Java",
+    "category": "Technical Skills",
+    "short_definition": "A robust, object-oriented programming language designed on the principle of 'write once, run anywhere' across different operating systems.",
+    "simple_explanation": "Java compiles code into an intermediate format that runs on any computer with the Java Virtual Machine. It is prized by large corporations, banks, and enterprise systems because of its reliability, strong security, and ability to handle immense transaction loads.",
+    "job_context": "Java is heavily demanded in corporate enterprise IT, banking systems, backend software engineering roles, and legacy system modernization projects.",
+    "example": "A backend engineer uses Java and the Spring Boot framework to build a high-volume payment gateway that safely processes thousands of bank transfers every minute.",
+    "related_skills": [
+      "Object-Oriented Programming",
+      "SQL",
+      "Spring Boot",
+      "Git",
+      "Software Architecture"
+    ],
+    "related_terms": [
+      "Backend Developer",
+      "Software Developer",
+      "JVM",
+      "Enterprise Software",
+      "API"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "Software Development",
+    "source": "Oracle Java Documentation & Specifications",
+    "searchable_text": "Term: Java\n\nCategory: Technical Skills\n\nShort Definition:\nA robust, object-oriented programming language designed on the principle of 'write once, run anywhere' across different operating systems.\n\nSimple Explanation:\nJava compiles code into an intermediate format that runs on any computer with the Java Virtual Machine. It is prized by large corporations, banks, and enterprise systems because of its reliability, strong security, and ability to handle immense transaction loads.\n\nJob Context:\nJava is heavily demanded in corporate enterprise IT, banking systems, backend software engineering roles, and legacy system modernization projects.\n\nExample:\nA backend engineer uses Java and the Spring Boot framework to build a high-volume payment gateway that safely processes thousands of bank transfers every minute.\n\nRelated Skills:\nObject-Oriented Programming, SQL, Spring Boot, Git, Software Architecture\n\nRelated Terms:\nBackend Developer, Software Developer, JVM, Enterprise Software, API\n\nDifficulty:\nIntermediate\n\nDomain:\nSoftware Development\n\nSource:\nOracle Java Documentation & Specifications"
+  },
+  {
+    "id": "tech_javascript",
+    "term": "JavaScript",
+    "category": "Technical Skills",
+    "short_definition": "The standard scripting and programming language that powers interactivity, dynamic content, and behavior inside web browsers.",
+    "simple_explanation": "While HTML structures a webpage and CSS styles its appearance, JavaScript brings it to life. Whenever you click a button to open a popup, submit a form without refreshing the page, or play a web game, JavaScript is running.",
+    "job_context": "JavaScript is an essential requirement for frontend and full-stack web developer roles. With modern platforms like Node.js, it is also widely used for server-side backend programming.",
+    "example": "A frontend developer uses JavaScript to validate whether an email address is typed correctly in an input box before allowing the user to click the submit button.",
+    "related_skills": [
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "React",
+      "Web Development"
+    ],
+    "related_terms": [
+      "Frontend Developer",
+      "Full Stack Developer",
+      "Node.js",
+      "Web Application",
+      "DOM"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Web Development",
+    "source": "Mozilla Developer Network (MDN) Web Docs - JavaScript Guide",
+    "searchable_text": "Term: JavaScript\n\nCategory: Technical Skills\n\nShort Definition:\nThe standard scripting and programming language that powers interactivity, dynamic content, and behavior inside web browsers.\n\nSimple Explanation:\nWhile HTML structures a webpage and CSS styles its appearance, JavaScript brings it to life. Whenever you click a button to open a popup, submit a form without refreshing the page, or play a web game, JavaScript is running.\n\nJob Context:\nJavaScript is an essential requirement for frontend and full-stack web developer roles. With modern platforms like Node.js, it is also widely used for server-side backend programming.\n\nExample:\nA frontend developer uses JavaScript to validate whether an email address is typed correctly in an input box before allowing the user to click the submit button.\n\nRelated Skills:\nHTML, CSS, TypeScript, React, Web Development\n\nRelated Terms:\nFrontend Developer, Full Stack Developer, Node.js, Web Application, DOM\n\nDifficulty:\nBeginner\n\nDomain:\nWeb Development\n\nSource:\nMozilla Developer Network (MDN) Web Docs - JavaScript Guide"
+  },
+  {
+    "id": "tech_sql",
+    "term": "SQL",
+    "category": "Technical Skills",
+    "short_definition": "A standard declarative language used to communicate with, query, update, and manage data held in relational databases.",
+    "simple_explanation": "SQL (Structured Query Language) lets you ask specific questions to a database using English-like commands. Instead of manually searching through millions of rows, you can write a simple command to pull exactly the records you need.",
+    "job_context": "SQL is one of the most widely requested skills in technology. It is a core requirement for data analysts, data scientists, database administrators, and backend software engineers.",
+    "example": "A junior analyst writes the query 'SELECT customer_name, total_spent FROM orders WHERE total_spent > 500' to instantly find all high-value customers.",
+    "related_skills": [
+      "Database Management",
+      "Data Analysis",
+      "Python",
+      "Data Modeling",
+      "Business Intelligence"
+    ],
+    "related_terms": [
+      "Database",
+      "Data Analyst",
+      "Database Administrator",
+      "Relational Database",
+      "Query"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Data Science",
+    "source": "ANSI/ISO SQL Standards & PostgreSQL Documentation",
+    "searchable_text": "Term: SQL\n\nCategory: Technical Skills\n\nShort Definition:\nA standard declarative language used to communicate with, query, update, and manage data held in relational databases.\n\nSimple Explanation:\nSQL (Structured Query Language) lets you ask specific questions to a database using English-like commands. Instead of manually searching through millions of rows, you can write a simple command to pull exactly the records you need.\n\nJob Context:\nSQL is one of the most widely requested skills in technology. It is a core requirement for data analysts, data scientists, database administrators, and backend software engineers.\n\nExample:\nA junior analyst writes the query 'SELECT customer_name, total_spent FROM orders WHERE total_spent > 500' to instantly find all high-value customers.\n\nRelated Skills:\nDatabase Management, Data Analysis, Python, Data Modeling, Business Intelligence\n\nRelated Terms:\nDatabase, Data Analyst, Database Administrator, Relational Database, Query\n\nDifficulty:\nBeginner\n\nDomain:\nData Science\n\nSource:\nANSI/ISO SQL Standards & PostgreSQL Documentation"
+  },
+  {
+    "id": "tech_html",
+    "term": "HTML",
+    "category": "Technical Skills",
+    "short_definition": "The foundational markup language used to structure web pages and define their text, headings, links, and media elements.",
+    "simple_explanation": "HTML (HyperText Markup Language) is like the skeleton of a website. It tells the web browser what elements exist on the page—such as paragraphs, headings, bullet lists, buttons, and images—before any styling or colors are applied.",
+    "job_context": "HTML is a fundamental building block for any role touching web technology, including frontend developers, UI/UX designers, and technical content writers.",
+    "example": "A junior web developer writes HTML tags like '<h1>Welcome</h1>' and '<button>Sign Up</button>' to lay out the basic components of a landing page.",
+    "related_skills": [
+      "CSS",
+      "JavaScript",
+      "Web Accessibility",
+      "SEO",
+      "Responsive Design"
+    ],
+    "related_terms": [
+      "Frontend Developer",
+      "CSS",
+      "Web Application",
+      "User Interface",
+      "DOM"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Web Development",
+    "source": "World Wide Web Consortium (W3C) HTML5 Specification",
+    "searchable_text": "Term: HTML\n\nCategory: Technical Skills\n\nShort Definition:\nThe foundational markup language used to structure web pages and define their text, headings, links, and media elements.\n\nSimple Explanation:\nHTML (HyperText Markup Language) is like the skeleton of a website. It tells the web browser what elements exist on the page—such as paragraphs, headings, bullet lists, buttons, and images—before any styling or colors are applied.\n\nJob Context:\nHTML is a fundamental building block for any role touching web technology, including frontend developers, UI/UX designers, and technical content writers.\n\nExample:\nA junior web developer writes HTML tags like '<h1>Welcome</h1>' and '<button>Sign Up</button>' to lay out the basic components of a landing page.\n\nRelated Skills:\nCSS, JavaScript, Web Accessibility, SEO, Responsive Design\n\nRelated Terms:\nFrontend Developer, CSS, Web Application, User Interface, DOM\n\nDifficulty:\nBeginner\n\nDomain:\nWeb Development\n\nSource:\nWorld Wide Web Consortium (W3C) HTML5 Specification"
+  },
+  {
+    "id": "tech_css",
+    "term": "CSS",
+    "category": "Technical Skills",
+    "short_definition": "A stylesheet language used to describe the visual presentation, styling, layout, and colors of documents written in HTML.",
+    "simple_explanation": "If HTML is the skeleton of a website, CSS (Cascading Style Sheets) is its skin, clothing, and makeup. CSS controls the colors, fonts, margins, animations, and how page layouts adjust smoothly between phone screens and desktop monitors.",
+    "job_context": "CSS is mandatory for frontend developers and web designers, who often use CSS frameworks and preprocessors to create modern, responsive, and mobile-friendly websites.",
+    "example": "A frontend designer writes CSS rules to change a call-to-action button to bright blue, center it on the screen, and make it subtly enlarge when hovered over by a mouse.",
+    "related_skills": [
+      "HTML",
+      "JavaScript",
+      "Responsive Design",
+      "Figma",
+      "UI Frameworks"
+    ],
+    "related_terms": [
+      "Frontend Developer",
+      "UI/UX Designer",
+      "User Interface",
+      "Responsive Design",
+      "Flexbox"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Web Development",
+    "source": "World Wide Web Consortium (W3C) CSS Specifications",
+    "searchable_text": "Term: CSS\n\nCategory: Technical Skills\n\nShort Definition:\nA stylesheet language used to describe the visual presentation, styling, layout, and colors of documents written in HTML.\n\nSimple Explanation:\nIf HTML is the skeleton of a website, CSS (Cascading Style Sheets) is its skin, clothing, and makeup. CSS controls the colors, fonts, margins, animations, and how page layouts adjust smoothly between phone screens and desktop monitors.\n\nJob Context:\nCSS is mandatory for frontend developers and web designers, who often use CSS frameworks and preprocessors to create modern, responsive, and mobile-friendly websites.\n\nExample:\nA frontend designer writes CSS rules to change a call-to-action button to bright blue, center it on the screen, and make it subtly enlarge when hovered over by a mouse.\n\nRelated Skills:\nHTML, JavaScript, Responsive Design, Figma, UI Frameworks\n\nRelated Terms:\nFrontend Developer, UI/UX Designer, User Interface, Responsive Design, Flexbox\n\nDifficulty:\nBeginner\n\nDomain:\nWeb Development\n\nSource:\nWorld Wide Web Consortium (W3C) CSS Specifications"
+  },
+  {
+    "id": "tech_git",
+    "term": "Git",
+    "category": "Technical Skills",
+    "short_definition": "A distributed version control system that tracks modifications made to source code files over time and enables team collaboration.",
+    "simple_explanation": "Git is like an infinite 'Undo' button and a time machine for your code. It saves checkpoints of your project so that if something breaks, you can instantly revert back to a working version or merge work from several developers without overwriting each other.",
+    "job_context": "Git is an indispensable requirement across virtually all software development, data science, and DevOps job postings. Teams use Git branches to build new features in isolation before merging them.",
+    "example": "A developer working on a new login feature creates a separate Git branch so that their experimental code does not disrupt the working main application.",
+    "related_skills": [
+      "GitHub",
+      "Command Line",
+      "Code Review",
+      "Collaboration",
+      "CI/CD"
+    ],
+    "related_terms": [
+      "Version Control",
+      "Repository",
+      "GitHub",
+      "Branch",
+      "Commit"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "Git SCM Official Documentation (git-scm.com)",
+    "searchable_text": "Term: Git\n\nCategory: Technical Skills\n\nShort Definition:\nA distributed version control system that tracks modifications made to source code files over time and enables team collaboration.\n\nSimple Explanation:\nGit is like an infinite 'Undo' button and a time machine for your code. It saves checkpoints of your project so that if something breaks, you can instantly revert back to a working version or merge work from several developers without overwriting each other.\n\nJob Context:\nGit is an indispensable requirement across virtually all software development, data science, and DevOps job postings. Teams use Git branches to build new features in isolation before merging them.\n\nExample:\nA developer working on a new login feature creates a separate Git branch so that their experimental code does not disrupt the working main application.\n\nRelated Skills:\nGitHub, Command Line, Code Review, Collaboration, CI/CD\n\nRelated Terms:\nVersion Control, Repository, GitHub, Branch, Commit\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nGit SCM Official Documentation (git-scm.com)"
+  },
+  {
+    "id": "tech_github",
+    "term": "GitHub",
+    "category": "Technical Skills",
+    "short_definition": "A cloud-based hosting platform for Git version control repositories that adds collaboration tools, code review, and CI/CD automation.",
+    "simple_explanation": "While Git is the software tool running on your personal computer, GitHub is the online website where developers store, share, and collaborate on Git projects. It allows teams to review each other's code, track project bugs, and showcase personal code portfolios.",
+    "job_context": "Hiring managers and recruiters frequently ask entry-level candidates for their GitHub profile link to review sample code, personal projects, and past contributions to open source.",
+    "example": "A developer opens a Pull Request on GitHub so their senior teammate can review the code, leave suggestions, and approve it before it gets added to the main project.",
+    "related_skills": [
+      "Git",
+      "Code Review",
+      "Open Source Contribution",
+      "CI/CD",
+      "Documentation"
+    ],
+    "related_terms": [
+      "Repository",
+      "Version Control",
+      "Pull Request",
+      "Open Source",
+      "Software Developer"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "GitHub Official Documentation & Guides (docs.github.com)",
+    "searchable_text": "Term: GitHub\n\nCategory: Technical Skills\n\nShort Definition:\nA cloud-based hosting platform for Git version control repositories that adds collaboration tools, code review, and CI/CD automation.\n\nSimple Explanation:\nWhile Git is the software tool running on your personal computer, GitHub is the online website where developers store, share, and collaborate on Git projects. It allows teams to review each other's code, track project bugs, and showcase personal code portfolios.\n\nJob Context:\nHiring managers and recruiters frequently ask entry-level candidates for their GitHub profile link to review sample code, personal projects, and past contributions to open source.\n\nExample:\nA developer opens a Pull Request on GitHub so their senior teammate can review the code, leave suggestions, and approve it before it gets added to the main project.\n\nRelated Skills:\nGit, Code Review, Open Source Contribution, CI/CD, Documentation\n\nRelated Terms:\nRepository, Version Control, Pull Request, Open Source, Software Developer\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nGitHub Official Documentation & Guides (docs.github.com)"
+  },
+  {
+    "id": "tech_docker",
+    "term": "Docker",
+    "category": "Technical Skills",
+    "short_definition": "A platform that packages software applications and all their dependencies into standardized, isolated units called containers.",
+    "simple_explanation": "Docker solves the age-old developer problem: 'It works on my computer, why does it crash on yours?' By packaging the code along with its exact libraries and system settings into a container, Docker ensures the software runs identically on any computer or cloud server.",
+    "job_context": "Docker is widely required in software engineering, backend, cloud, and DevOps job postings to create reproducible local development environments and microservice deployments.",
+    "example": "A developer packages a Python web app and its database configuration inside a Docker container so a new team member can get the entire application running in two minutes with one command.",
+    "related_skills": [
+      "Linux CLI",
+      "Kubernetes",
+      "CI/CD",
+      "Cloud Computing",
+      "DevOps"
+    ],
+    "related_terms": [
+      "Container",
+      "Kubernetes",
+      "DevOps Engineer",
+      "Cloud Engineer",
+      "Deployment"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "DevOps",
+    "source": "Docker Documentation & Architecture Guide (docs.docker.com)",
+    "searchable_text": "Term: Docker\n\nCategory: Technical Skills\n\nShort Definition:\nA platform that packages software applications and all their dependencies into standardized, isolated units called containers.\n\nSimple Explanation:\nDocker solves the age-old developer problem: 'It works on my computer, why does it crash on yours?' By packaging the code along with its exact libraries and system settings into a container, Docker ensures the software runs identically on any computer or cloud server.\n\nJob Context:\nDocker is widely required in software engineering, backend, cloud, and DevOps job postings to create reproducible local development environments and microservice deployments.\n\nExample:\nA developer packages a Python web app and its database configuration inside a Docker container so a new team member can get the entire application running in two minutes with one command.\n\nRelated Skills:\nLinux CLI, Kubernetes, CI/CD, Cloud Computing, DevOps\n\nRelated Terms:\nContainer, Kubernetes, DevOps Engineer, Cloud Engineer, Deployment\n\nDifficulty:\nIntermediate\n\nDomain:\nDevOps\n\nSource:\nDocker Documentation & Architecture Guide (docs.docker.com)"
+  },
+  {
+    "id": "tech_kubernetes",
+    "term": "Kubernetes",
+    "category": "Technical Skills",
+    "short_definition": "An open-source container orchestration system for automating the deployment, scaling, and management of containerized applications.",
+    "simple_explanation": "If Docker creates individual cargo containers, Kubernetes is the automated seaport crane and cargo ship manager. When traffic surges, Kubernetes automatically starts up new containers to handle the load; if a container crashes, it replaces it instantly.",
+    "job_context": "Kubernetes is a high-demand skill for senior backend, DevOps, and cloud engineering positions responsible for running resilient, large-scale web services.",
+    "example": "During a massive Black Friday shopping rush, Kubernetes automatically scales an online store's payment containers from 5 copies to 50 copies to prevent the site from crashing.",
+    "related_skills": [
+      "Docker",
+      "Linux CLI",
+      "Cloud Computing",
+      "Infrastructure Automation",
+      "DevOps"
+    ],
+    "related_terms": [
+      "Docker",
+      "DevOps Engineer",
+      "Cloud Engineer",
+      "Deployment",
+      "Microservices"
+    ],
+    "difficulty": "Advanced",
+    "domain": "DevOps",
+    "source": "Cloud Native Computing Foundation (CNCF) & Kubernetes Documentation",
+    "searchable_text": "Term: Kubernetes\n\nCategory: Technical Skills\n\nShort Definition:\nAn open-source container orchestration system for automating the deployment, scaling, and management of containerized applications.\n\nSimple Explanation:\nIf Docker creates individual cargo containers, Kubernetes is the automated seaport crane and cargo ship manager. When traffic surges, Kubernetes automatically starts up new containers to handle the load; if a container crashes, it replaces it instantly.\n\nJob Context:\nKubernetes is a high-demand skill for senior backend, DevOps, and cloud engineering positions responsible for running resilient, large-scale web services.\n\nExample:\nDuring a massive Black Friday shopping rush, Kubernetes automatically scales an online store's payment containers from 5 copies to 50 copies to prevent the site from crashing.\n\nRelated Skills:\nDocker, Linux CLI, Cloud Computing, Infrastructure Automation, DevOps\n\nRelated Terms:\nDocker, DevOps Engineer, Cloud Engineer, Deployment, Microservices\n\nDifficulty:\nAdvanced\n\nDomain:\nDevOps\n\nSource:\nCloud Native Computing Foundation (CNCF) & Kubernetes Documentation"
+  },
+  {
+    "id": "tech_aws",
+    "term": "AWS",
+    "category": "Technical Skills",
+    "short_definition": "Amazon Web Services, a comprehensive cloud computing platform offering scalable compute power, database storage, and content delivery over the internet.",
+    "simple_explanation": "AWS is like a massive digital utility company. Instead of buying physical computer servers and hard drives, companies rent computing power, databases, and AI tools from Amazon's secure data centers on pay-as-you-go pricing.",
+    "job_context": "AWS proficiency or certifications (such as AWS Cloud Practitioner or Solutions Architect) are frequently listed on job descriptions for cloud engineers, software developers, and DevOps specialists.",
+    "example": "A startup hosts its web application servers on AWS EC2 and stores its user photo uploads in AWS S3 storage, scaling up or down automatically as user numbers grow.",
+    "related_skills": [
+      "Cloud Computing",
+      "Linux",
+      "DevOps",
+      "Networking",
+      "Database Management"
+    ],
+    "related_terms": [
+      "Cloud Engineer",
+      "Cloud Computing",
+      "DevOps Engineer",
+      "Deployment",
+      "Server"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "Cloud Computing",
+    "source": "Amazon Web Services (AWS) Official Documentation & Whitepapers",
+    "searchable_text": "Term: AWS\n\nCategory: Technical Skills\n\nShort Definition:\nAmazon Web Services, a comprehensive cloud computing platform offering scalable compute power, database storage, and content delivery over the internet.\n\nSimple Explanation:\nAWS is like a massive digital utility company. Instead of buying physical computer servers and hard drives, companies rent computing power, databases, and AI tools from Amazon's secure data centers on pay-as-you-go pricing.\n\nJob Context:\nAWS proficiency or certifications (such as AWS Cloud Practitioner or Solutions Architect) are frequently listed on job descriptions for cloud engineers, software developers, and DevOps specialists.\n\nExample:\nA startup hosts its web application servers on AWS EC2 and stores its user photo uploads in AWS S3 storage, scaling up or down automatically as user numbers grow.\n\nRelated Skills:\nCloud Computing, Linux, DevOps, Networking, Database Management\n\nRelated Terms:\nCloud Engineer, Cloud Computing, DevOps Engineer, Deployment, Server\n\nDifficulty:\nIntermediate\n\nDomain:\nCloud Computing\n\nSource:\nAmazon Web Services (AWS) Official Documentation & Whitepapers"
+  },
+  {
+    "id": "tech_machine_learning",
+    "term": "Machine Learning",
+    "category": "Technical Skills",
+    "short_definition": "A branch of artificial intelligence focused on training computer algorithms to learn patterns from data and make predictions without being explicitly programmed.",
+    "simple_explanation": "Instead of writing rigid rules for every possible situation, programmers feed thousands of examples to a machine learning model. The model discovers patterns on its own, allowing it to recognize spam emails, translate languages, or predict stock prices.",
+    "job_context": "Machine learning is a core skill for data scientists, machine learning engineers, and AI research roles, requiring solid mathematical intuition and coding in Python.",
+    "example": "An engineer trains a machine learning model on historical real estate data so that the model can accurately estimate the market value of a house based on its square footage and location.",
+    "related_skills": [
+      "Python",
+      "Statistics",
+      "Data Modeling",
+      "Deep Learning",
+      "SQL"
+    ],
+    "related_terms": [
+      "Data Scientist",
+      "Deep Learning",
+      "Machine Learning Engineer",
+      "Artificial Intelligence",
+      "Algorithm"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "Data Science",
+    "source": "IEEE Computer Society & ACM Classification of Machine Learning",
+    "searchable_text": "Term: Machine Learning\n\nCategory: Technical Skills\n\nShort Definition:\nA branch of artificial intelligence focused on training computer algorithms to learn patterns from data and make predictions without being explicitly programmed.\n\nSimple Explanation:\nInstead of writing rigid rules for every possible situation, programmers feed thousands of examples to a machine learning model. The model discovers patterns on its own, allowing it to recognize spam emails, translate languages, or predict stock prices.\n\nJob Context:\nMachine learning is a core skill for data scientists, machine learning engineers, and AI research roles, requiring solid mathematical intuition and coding in Python.\n\nExample:\nAn engineer trains a machine learning model on historical real estate data so that the model can accurately estimate the market value of a house based on its square footage and location.\n\nRelated Skills:\nPython, Statistics, Data Modeling, Deep Learning, SQL\n\nRelated Terms:\nData Scientist, Deep Learning, Machine Learning Engineer, Artificial Intelligence, Algorithm\n\nDifficulty:\nIntermediate\n\nDomain:\nData Science\n\nSource:\nIEEE Computer Society & ACM Classification of Machine Learning"
+  },
+  {
+    "id": "tech_deep_learning",
+    "term": "Deep Learning",
+    "category": "Technical Skills",
+    "short_definition": "A subset of machine learning based on multi-layered artificial neural networks capable of learning complex representations from vast datasets.",
+    "simple_explanation": "Deep learning models are inspired by the human brain's interconnected neurons. By passing data through dozens or hundreds of layers, deep learning powers state-of-the-art breakthroughs like facial recognition, voice assistants, autonomous vehicles, and generative AI.",
+    "job_context": "Deep learning expertise is demanded for specialized computer vision, natural language processing (NLP), generative AI, and autonomous systems development roles.",
+    "example": "A healthcare AI startup trains a deep neural network on thousands of chest X-rays to help radiologists detect early signs of pneumonia faster and more accurately.",
+    "related_skills": [
+      "Python",
+      "Machine Learning",
+      "Neural Networks",
+      "PyTorch",
+      "Data Science"
+    ],
+    "related_terms": [
+      "Machine Learning",
+      "Data Scientist",
+      "Machine Learning Engineer",
+      "Artificial Intelligence",
+      "Neural Network"
+    ],
+    "difficulty": "Advanced",
+    "domain": "Data Science",
+    "source": "National Institute of Standards and Technology (NIST) AI Guidelines",
+    "searchable_text": "Term: Deep Learning\n\nCategory: Technical Skills\n\nShort Definition:\nA subset of machine learning based on multi-layered artificial neural networks capable of learning complex representations from vast datasets.\n\nSimple Explanation:\nDeep learning models are inspired by the human brain's interconnected neurons. By passing data through dozens or hundreds of layers, deep learning powers state-of-the-art breakthroughs like facial recognition, voice assistants, autonomous vehicles, and generative AI.\n\nJob Context:\nDeep learning expertise is demanded for specialized computer vision, natural language processing (NLP), generative AI, and autonomous systems development roles.\n\nExample:\nA healthcare AI startup trains a deep neural network on thousands of chest X-rays to help radiologists detect early signs of pneumonia faster and more accurately.\n\nRelated Skills:\nPython, Machine Learning, Neural Networks, PyTorch, Data Science\n\nRelated Terms:\nMachine Learning, Data Scientist, Machine Learning Engineer, Artificial Intelligence, Neural Network\n\nDifficulty:\nAdvanced\n\nDomain:\nData Science\n\nSource:\nNational Institute of Standards and Technology (NIST) AI Guidelines"
+  },
+  {
+    "id": "tech_rest_api",
+    "term": "REST API",
+    "category": "Technical Skills",
+    "short_definition": "An architectural approach that enables distinct software applications to communicate and exchange data across the web using standard HTTP protocols.",
+    "simple_explanation": "A REST API is like a waiter in a restaurant. You (the client app) sit at the table and place an order from the menu (a request). The waiter carries your order to the kitchen (the server database) and brings your food back to your table (the response formatted as JSON).",
+    "job_context": "Designing, building, or consuming REST APIs is an everyday requirement in backend, frontend, full-stack, and mobile application engineering jobs.",
+    "example": "A weather application on your phone makes an HTTP request to a weather service's REST API and receives current temperature and forecast data formatted in JSON to display on your screen.",
+    "related_skills": [
+      "HTTP Protocols",
+      "JSON",
+      "Backend Development",
+      "JavaScript",
+      "Python"
+    ],
+    "related_terms": [
+      "API",
+      "Backend Developer",
+      "Frontend Developer",
+      "Web Application",
+      "Microservices"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "Roy Fielding's Architectural Styles and the Design of Network-based Software Architectures (W3C/ACM)",
+    "searchable_text": "Term: REST API\n\nCategory: Technical Skills\n\nShort Definition:\nAn architectural approach that enables distinct software applications to communicate and exchange data across the web using standard HTTP protocols.\n\nSimple Explanation:\nA REST API is like a waiter in a restaurant. You (the client app) sit at the table and place an order from the menu (a request). The waiter carries your order to the kitchen (the server database) and brings your food back to your table (the response formatted as JSON).\n\nJob Context:\nDesigning, building, or consuming REST APIs is an everyday requirement in backend, frontend, full-stack, and mobile application engineering jobs.\n\nExample:\nA weather application on your phone makes an HTTP request to a weather service's REST API and receives current temperature and forecast data formatted in JSON to display on your screen.\n\nRelated Skills:\nHTTP Protocols, JSON, Backend Development, JavaScript, Python\n\nRelated Terms:\nAPI, Backend Developer, Frontend Developer, Web Application, Microservices\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nRoy Fielding's Architectural Styles and the Design of Network-based Software Architectures (W3C/ACM)"
+  },
+  {
+    "id": "tech_linux",
+    "term": "Linux",
+    "category": "Technical Skills",
+    "short_definition": "An open-source, Unix-like operating system kernel that forms the bedrock for modern web servers, cloud infrastructure, and developer environments.",
+    "simple_explanation": "Unlike consumer operating systems like Windows or macOS, Linux is free, open source, and lightweight. Because it is exceptionally stable and secure, Linux powers the vast majority of the world's internet servers, cloud clusters, and supercomputers.",
+    "job_context": "Comfort with the Linux command line (bash commands, file permissions, process inspection) is required across systems administration, DevOps, cloud engineering, and backend development.",
+    "example": "A junior developer logs into a remote Ubuntu Linux server via SSH to inspect error logs, restart a web server process, and check CPU memory usage.",
+    "related_skills": [
+      "Bash Scripting",
+      "System Administration",
+      "Git",
+      "Networking",
+      "DevOps"
+    ],
+    "related_terms": [
+      "Operating System",
+      "DevOps Engineer",
+      "Cloud Engineer",
+      "Command Line",
+      "Open Source"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Systems & Networking",
+    "source": "Linux Foundation Official Training & Certification Standards",
+    "searchable_text": "Term: Linux\n\nCategory: Technical Skills\n\nShort Definition:\nAn open-source, Unix-like operating system kernel that forms the bedrock for modern web servers, cloud infrastructure, and developer environments.\n\nSimple Explanation:\nUnlike consumer operating systems like Windows or macOS, Linux is free, open source, and lightweight. Because it is exceptionally stable and secure, Linux powers the vast majority of the world's internet servers, cloud clusters, and supercomputers.\n\nJob Context:\nComfort with the Linux command line (bash commands, file permissions, process inspection) is required across systems administration, DevOps, cloud engineering, and backend development.\n\nExample:\nA junior developer logs into a remote Ubuntu Linux server via SSH to inspect error logs, restart a web server process, and check CPU memory usage.\n\nRelated Skills:\nBash Scripting, System Administration, Git, Networking, DevOps\n\nRelated Terms:\nOperating System, DevOps Engineer, Cloud Engineer, Command Line, Open Source\n\nDifficulty:\nBeginner\n\nDomain:\nSystems & Networking\n\nSource:\nLinux Foundation Official Training & Certification Standards"
+  },
+  {
+    "id": "emp_internship",
+    "term": "Internship",
+    "category": "Employment Terms",
+    "short_definition": "A temporary period of supervised work experience offered by employers to students or beginners to provide practical industry exposure.",
+    "simple_explanation": "An internship is an on-the-job training opportunity that lets you test out a career, learn how a real company works, and build your resume. Internships can be full-time during summers or part-time during school semesters, and in technical fields, they are typically paid.",
+    "job_context": "Internship postings are designed specifically for current college students or recent graduates with little to no professional experience. Successful internships frequently lead to full-time return job offers.",
+    "example": "A college junior completes a 10-week summer software engineering internship at a fintech startup, working alongside senior engineers and presenting their project at the end.",
+    "related_skills": [
+      "Teamwork",
+      "Communication",
+      "Learning Agility",
+      "Time Management"
+    ],
+    "related_terms": [
+      "On-the-Job Training",
+      "Work Experience",
+      "Full-Time Employment",
+      "Mentorship",
+      "Job Offer"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Employment",
+    "source": "U.S. Department of Labor (DOL) - Internship Programs Under the Fair Labor Standards Act",
+    "searchable_text": "Term: Internship\n\nCategory: Employment Terms\n\nShort Definition:\nA temporary period of supervised work experience offered by employers to students or beginners to provide practical industry exposure.\n\nSimple Explanation:\nAn internship is an on-the-job training opportunity that lets you test out a career, learn how a real company works, and build your resume. Internships can be full-time during summers or part-time during school semesters, and in technical fields, they are typically paid.\n\nJob Context:\nInternship postings are designed specifically for current college students or recent graduates with little to no professional experience. Successful internships frequently lead to full-time return job offers.\n\nExample:\nA college junior completes a 10-week summer software engineering internship at a fintech startup, working alongside senior engineers and presenting their project at the end.\n\nRelated Skills:\nTeamwork, Communication, Learning Agility, Time Management\n\nRelated Terms:\nOn-the-Job Training, Work Experience, Full-Time Employment, Mentorship, Job Offer\n\nDifficulty:\nBeginner\n\nDomain:\nEmployment\n\nSource:\nU.S. Department of Labor (DOL) - Internship Programs Under the Fair Labor Standards Act"
+  },
+  {
+    "id": "emp_full_time",
+    "term": "Full-Time Employment",
+    "category": "Employment Terms",
+    "short_definition": "An ongoing employment arrangement where an employee works a standard schedule (typically 35 to 40 hours per week) and receives full compensation and benefits.",
+    "simple_explanation": "Full-time employment is what most people consider a standard primary job. In exchange for working roughly 40 hours every week, employees receive a predictable salary, paid time off, and access to company benefits like health insurance and retirement plans.",
+    "job_context": "Most corporate technology roles are advertised as full-time positions, detailing annual salary, performance bonuses, health coverage, and standard weekly working hours.",
+    "example": "After graduating from university, an applicant signs an offer for full-time employment as a junior data analyst working 40 hours per week with medical benefits and paid vacation.",
+    "related_skills": [
+      "Professionalism",
+      "Time Management",
+      "Accountability",
+      "Workplace Communication"
+    ],
+    "related_terms": [
+      "Part-Time Employment",
+      "Employment Contract",
+      "Job Offer",
+      "Probation",
+      "Notice Period"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Employment",
+    "source": "U.S. Bureau of Labor Statistics (BLS) - Full-time and Part-time Employment Concepts",
+    "searchable_text": "Term: Full-Time Employment\n\nCategory: Employment Terms\n\nShort Definition:\nAn ongoing employment arrangement where an employee works a standard schedule (typically 35 to 40 hours per week) and receives full compensation and benefits.\n\nSimple Explanation:\nFull-time employment is what most people consider a standard primary job. In exchange for working roughly 40 hours every week, employees receive a predictable salary, paid time off, and access to company benefits like health insurance and retirement plans.\n\nJob Context:\nMost corporate technology roles are advertised as full-time positions, detailing annual salary, performance bonuses, health coverage, and standard weekly working hours.\n\nExample:\nAfter graduating from university, an applicant signs an offer for full-time employment as a junior data analyst working 40 hours per week with medical benefits and paid vacation.\n\nRelated Skills:\nProfessionalism, Time Management, Accountability, Workplace Communication\n\nRelated Terms:\nPart-Time Employment, Employment Contract, Job Offer, Probation, Notice Period\n\nDifficulty:\nBeginner\n\nDomain:\nEmployment\n\nSource:\nU.S. Bureau of Labor Statistics (BLS) - Full-time and Part-time Employment Concepts"
+  },
+  {
+    "id": "emp_part_time",
+    "term": "Part-Time Employment",
+    "category": "Employment Terms",
+    "short_definition": "An employment arrangement where an individual works fewer hours per week than a full-time employee (usually under 30 to 35 hours weekly).",
+    "simple_explanation": "Part-time jobs offer greater flexibility for people who are balancing school, family, or other commitments. Hours are scheduled across fewer days or shorter shifts, and compensation is often calculated on an hourly basis.",
+    "job_context": "Part-time tech positions are common for students working in campus IT helpdesks, junior website maintenance roles, or freelance contract engagements.",
+    "example": "A computer science student works 15 hours a week as a part-time junior web assistant for a non-profit while finishing their university degree.",
+    "related_skills": [
+      "Time Management",
+      "Self-Discipline",
+      "Communication",
+      "Prioritization"
+    ],
+    "related_terms": [
+      "Full-Time Employment",
+      "Employment Contract",
+      "Hourly Wage",
+      "Work Experience"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Employment",
+    "source": "International Labour Organization (ILO) Part-Time Work Convention",
+    "searchable_text": "Term: Part-Time Employment\n\nCategory: Employment Terms\n\nShort Definition:\nAn employment arrangement where an individual works fewer hours per week than a full-time employee (usually under 30 to 35 hours weekly).\n\nSimple Explanation:\nPart-time jobs offer greater flexibility for people who are balancing school, family, or other commitments. Hours are scheduled across fewer days or shorter shifts, and compensation is often calculated on an hourly basis.\n\nJob Context:\nPart-time tech positions are common for students working in campus IT helpdesks, junior website maintenance roles, or freelance contract engagements.\n\nExample:\nA computer science student works 15 hours a week as a part-time junior web assistant for a non-profit while finishing their university degree.\n\nRelated Skills:\nTime Management, Self-Discipline, Communication, Prioritization\n\nRelated Terms:\nFull-Time Employment, Employment Contract, Hourly Wage, Work Experience\n\nDifficulty:\nBeginner\n\nDomain:\nEmployment\n\nSource:\nInternational Labour Organization (ILO) Part-Time Work Convention"
+  },
+  {
+    "id": "emp_probation",
+    "term": "Probation",
+    "category": "Employment Terms",
+    "short_definition": "A designated trial period at the start of employment (commonly 3 to 6 months) during which an employer evaluates a new hire's performance and workplace fit.",
+    "simple_explanation": "Probation is a mutual evaluation window. It gives the employer time to verify that you can do the job and collaborate well with the team, while giving you time to see if the company and work culture match your expectations.",
+    "job_context": "Employment offer letters routinely specify a probationary period. Notice periods during probation are often shorter (e.g., two weeks instead of two months), after which employees undergo a confirmation review.",
+    "example": "A newly hired cloud engineer has a 90-day probation period with monthly check-ins; after meeting all onboarding goals at the 3-month review, their position is formally confirmed.",
+    "related_skills": [
+      "Adaptability",
+      "Receptiveness to Feedback",
+      "Communication",
+      "Goal Orientation"
+    ],
+    "related_terms": [
+      "Employment Contract",
+      "Notice Period",
+      "Performance Review",
+      "Job Offer",
+      "Full-Time Employment"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Employment",
+    "source": "Chartered Institute of Personnel and Development (CIPD) - Managing Probationary Periods",
+    "searchable_text": "Term: Probation\n\nCategory: Employment Terms\n\nShort Definition:\nA designated trial period at the start of employment (commonly 3 to 6 months) during which an employer evaluates a new hire's performance and workplace fit.\n\nSimple Explanation:\nProbation is a mutual evaluation window. It gives the employer time to verify that you can do the job and collaborate well with the team, while giving you time to see if the company and work culture match your expectations.\n\nJob Context:\nEmployment offer letters routinely specify a probationary period. Notice periods during probation are often shorter (e.g., two weeks instead of two months), after which employees undergo a confirmation review.\n\nExample:\nA newly hired cloud engineer has a 90-day probation period with monthly check-ins; after meeting all onboarding goals at the 3-month review, their position is formally confirmed.\n\nRelated Skills:\nAdaptability, Receptiveness to Feedback, Communication, Goal Orientation\n\nRelated Terms:\nEmployment Contract, Notice Period, Performance Review, Job Offer, Full-Time Employment\n\nDifficulty:\nBeginner\n\nDomain:\nEmployment\n\nSource:\nChartered Institute of Personnel and Development (CIPD) - Managing Probationary Periods"
+  },
+  {
+    "id": "emp_notice_period",
+    "term": "Notice Period",
+    "category": "Employment Terms",
+    "short_definition": "The mandatory time duration an employee or employer must provide prior to officially terminating an employment agreement.",
+    "simple_explanation": "When you decide to leave a company or when a company lets you go, you generally cannot walk out the same day. The notice period (typically 2 weeks to 3 months depending on local labor laws and seniority) gives the company time to find a replacement and hand over tasks smoothly.",
+    "job_context": "Job application forms frequently ask: 'What is your current notice period?' Recruiters need to know how many weeks or months they will have to wait before a selected candidate can start their new role.",
+    "example": "A software developer accepts a new job offer and gives two weeks of formal notice to their current manager, using those two weeks to document their code and train their replacement.",
+    "related_skills": [
+      "Knowledge Transfer",
+      "Documentation",
+      "Professional Communication",
+      "Project Handoff"
+    ],
+    "related_terms": [
+      "Employment Contract",
+      "Probation",
+      "Resignation",
+      "Job Offer",
+      "Full-Time Employment"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Employment",
+    "source": "Society for Human Resource Management (SHRM) - Resignation and Notice Practices",
+    "searchable_text": "Term: Notice Period\n\nCategory: Employment Terms\n\nShort Definition:\nThe mandatory time duration an employee or employer must provide prior to officially terminating an employment agreement.\n\nSimple Explanation:\nWhen you decide to leave a company or when a company lets you go, you generally cannot walk out the same day. The notice period (typically 2 weeks to 3 months depending on local labor laws and seniority) gives the company time to find a replacement and hand over tasks smoothly.\n\nJob Context:\nJob application forms frequently ask: 'What is your current notice period?' Recruiters need to know how many weeks or months they will have to wait before a selected candidate can start their new role.\n\nExample:\nA software developer accepts a new job offer and gives two weeks of formal notice to their current manager, using those two weeks to document their code and train their replacement.\n\nRelated Skills:\nKnowledge Transfer, Documentation, Professional Communication, Project Handoff\n\nRelated Terms:\nEmployment Contract, Probation, Resignation, Job Offer, Full-Time Employment\n\nDifficulty:\nBeginner\n\nDomain:\nEmployment\n\nSource:\nSociety for Human Resource Management (SHRM) - Resignation and Notice Practices"
+  },
+  {
+    "id": "emp_job_offer",
+    "term": "Job Offer",
+    "category": "Employment Terms",
+    "short_definition": "A formal written invitation from an employer proposing employment to a candidate, detailing position title, compensation, benefits, and start date.",
+    "simple_explanation": "After you successfully pass your interviews, the company issues a formal job offer letter. It outlines the specific terms of employment—how much you will be paid, your official title, your manager, and your reporting date—for you to sign and accept.",
+    "job_context": "Candidates should carefully review job offer letters before signing, checking compensation terms, working hours, remote/in-office expectations, and contingencies like background checks.",
+    "example": "An applicant receives a formal PDF job offer letter for the role of Junior QA Engineer with a stated base salary, 15 paid vacation days, and an official start date on the first Monday of next month.",
+    "related_skills": [
+      "Contract Review",
+      "Negotiation",
+      "Written Communication",
+      "Decision Making"
+    ],
+    "related_terms": [
+      "Employment Contract",
+      "Job Description",
+      "Probation",
+      "Full-Time Employment",
+      "Work Experience"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Employment",
+    "source": "National Association of Colleges and Employers (NACE) Job Offer Guidelines",
+    "searchable_text": "Term: Job Offer\n\nCategory: Employment Terms\n\nShort Definition:\nA formal written invitation from an employer proposing employment to a candidate, detailing position title, compensation, benefits, and start date.\n\nSimple Explanation:\nAfter you successfully pass your interviews, the company issues a formal job offer letter. It outlines the specific terms of employment—how much you will be paid, your official title, your manager, and your reporting date—for you to sign and accept.\n\nJob Context:\nCandidates should carefully review job offer letters before signing, checking compensation terms, working hours, remote/in-office expectations, and contingencies like background checks.\n\nExample:\nAn applicant receives a formal PDF job offer letter for the role of Junior QA Engineer with a stated base salary, 15 paid vacation days, and an official start date on the first Monday of next month.\n\nRelated Skills:\nContract Review, Negotiation, Written Communication, Decision Making\n\nRelated Terms:\nEmployment Contract, Job Description, Probation, Full-Time Employment, Work Experience\n\nDifficulty:\nBeginner\n\nDomain:\nEmployment\n\nSource:\nNational Association of Colleges and Employers (NACE) Job Offer Guidelines"
+  },
+  {
+    "id": "emp_work_experience",
+    "term": "Work Experience",
+    "category": "Employment Terms",
+    "short_definition": "The cumulative practical skills, knowledge, and on-the-job responsibilities gained by an individual across past professional employments.",
+    "simple_explanation": "Work experience is the real-world track record you build over time. It shows future employers that you have solved actual problems, collaborated with coworkers, met deadlines, and applied academic theories to business projects.",
+    "job_context": "Job descriptions typically categorize positions by required experience: 0–2 years for entry-level, 3–5 years for mid-level, and 6+ years for senior roles. Internships, capstones, and freelance projects can count toward entry-level experience.",
+    "example": "A candidate highlights two summer internships and a 6-month university lab research project on their resume to demonstrate one year of relevant hands-on work experience.",
+    "related_skills": [
+      "Resume Writing",
+      "Professional Networking",
+      "Career Planning",
+      "Self-Reflection"
+    ],
+    "related_terms": [
+      "Internship",
+      "On-the-Job Training",
+      "Job Description",
+      "Career Progression",
+      "Entry-Level"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Employment",
+    "source": "U.S. Bureau of Labor Statistics (BLS) - Measures of Work Experience",
+    "searchable_text": "Term: Work Experience\n\nCategory: Employment Terms\n\nShort Definition:\nThe cumulative practical skills, knowledge, and on-the-job responsibilities gained by an individual across past professional employments.\n\nSimple Explanation:\nWork experience is the real-world track record you build over time. It shows future employers that you have solved actual problems, collaborated with coworkers, met deadlines, and applied academic theories to business projects.\n\nJob Context:\nJob descriptions typically categorize positions by required experience: 0–2 years for entry-level, 3–5 years for mid-level, and 6+ years for senior roles. Internships, capstones, and freelance projects can count toward entry-level experience.\n\nExample:\nA candidate highlights two summer internships and a 6-month university lab research project on their resume to demonstrate one year of relevant hands-on work experience.\n\nRelated Skills:\nResume Writing, Professional Networking, Career Planning, Self-Reflection\n\nRelated Terms:\nInternship, On-the-Job Training, Job Description, Career Progression, Entry-Level\n\nDifficulty:\nBeginner\n\nDomain:\nEmployment\n\nSource:\nU.S. Bureau of Labor Statistics (BLS) - Measures of Work Experience"
+  },
+  {
+    "id": "emp_job_description",
+    "term": "Job Description",
+    "category": "Employment Terms",
+    "short_definition": "A formal document advertising an open role, outlining core duties, day-to-day responsibilities, mandatory qualifications, and preferred technical skills.",
+    "simple_explanation": "A job description (often called a JD) is the advertisement companies post when they need to hire. It acts as a shopping list for the ideal candidate, explaining what you would do every day and what skills you should possess before applying.",
+    "job_context": "Beginners should review job descriptions to identify the core technical skills employers demand, using those requirements to guide their personal learning projects and resume phrasing.",
+    "example": "An entry-level job description for a Data Analyst lists requirements such as a degree in a quantitative field, proficiency in SQL and Excel, and strong communication skills.",
+    "related_skills": [
+      "Skill Gap Analysis",
+      "Job Search Strategy",
+      "Resume Tailoring",
+      "Interview Preparation"
+    ],
+    "related_terms": [
+      "Job Offer",
+      "Job Roles",
+      "Technical Skills",
+      "Professional Qualifications",
+      "Work Experience"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Employment",
+    "source": "Society for Human Resource Management (SHRM) - Drafting Effective Job Descriptions",
+    "searchable_text": "Term: Job Description\n\nCategory: Employment Terms\n\nShort Definition:\nA formal document advertising an open role, outlining core duties, day-to-day responsibilities, mandatory qualifications, and preferred technical skills.\n\nSimple Explanation:\nA job description (often called a JD) is the advertisement companies post when they need to hire. It acts as a shopping list for the ideal candidate, explaining what you would do every day and what skills you should possess before applying.\n\nJob Context:\nBeginners should review job descriptions to identify the core technical skills employers demand, using those requirements to guide their personal learning projects and resume phrasing.\n\nExample:\nAn entry-level job description for a Data Analyst lists requirements such as a degree in a quantitative field, proficiency in SQL and Excel, and strong communication skills.\n\nRelated Skills:\nSkill Gap Analysis, Job Search Strategy, Resume Tailoring, Interview Preparation\n\nRelated Terms:\nJob Offer, Job Roles, Technical Skills, Professional Qualifications, Work Experience\n\nDifficulty:\nBeginner\n\nDomain:\nEmployment\n\nSource:\nSociety for Human Resource Management (SHRM) - Drafting Effective Job Descriptions"
+  },
+  {
+    "id": "emp_employment_contract",
+    "term": "Employment Contract",
+    "category": "Employment Terms",
+    "short_definition": "A legally binding written agreement between an employee and an employer establishing the rights, duties, compensation, and conditions of the job.",
+    "simple_explanation": "An employment contract is the legal document both you and the company sign. It covers critical rules including salary, working hours, confidentiality policies, intellectual property rights, non-compete clauses, and grounds for termination.",
+    "job_context": "Before beginning work on day one, employees sign an employment agreement alongside standard tax forms and non-disclosure agreements (NDAs) to formalize their relationship.",
+    "example": "A software engineer signs an employment contract that specifies they cannot disclose proprietary company algorithms to third parties and outlines a one-month notice period.",
+    "related_skills": [
+      "Document Analysis",
+      "Compliance Awareness",
+      "Professional Integrity"
+    ],
+    "related_terms": [
+      "Job Offer",
+      "Probation",
+      "Notice Period",
+      "Full-Time Employment",
+      "Non-Disclosure Agreement"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "Employment",
+    "source": "International Labour Organization (ILO) Employment Relationship Recommendation",
+    "searchable_text": "Term: Employment Contract\n\nCategory: Employment Terms\n\nShort Definition:\nA legally binding written agreement between an employee and an employer establishing the rights, duties, compensation, and conditions of the job.\n\nSimple Explanation:\nAn employment contract is the legal document both you and the company sign. It covers critical rules including salary, working hours, confidentiality policies, intellectual property rights, non-compete clauses, and grounds for termination.\n\nJob Context:\nBefore beginning work on day one, employees sign an employment agreement alongside standard tax forms and non-disclosure agreements (NDAs) to formalize their relationship.\n\nExample:\nA software engineer signs an employment contract that specifies they cannot disclose proprietary company algorithms to third parties and outlines a one-month notice period.\n\nRelated Skills:\nDocument Analysis, Compliance Awareness, Professional Integrity\n\nRelated Terms:\nJob Offer, Probation, Notice Period, Full-Time Employment, Non-Disclosure Agreement\n\nDifficulty:\nIntermediate\n\nDomain:\nEmployment\n\nSource:\nInternational Labour Organization (ILO) Employment Relationship Recommendation"
+  },
+  {
+    "id": "emp_remote_work",
+    "term": "Remote Work",
+    "category": "Employment Terms",
+    "short_definition": "A flexible work arrangement where employees perform their professional duties from home or any location outside the employer's physical office.",
+    "simple_explanation": "Remote work means you do your job from a home desk, co-working space, or library instead of commuting to a corporate office building. You collaborate with your team via video calls, chat apps, and shared online document repositories.",
+    "job_context": "Many technology job listings explicitly state whether a position is 'Remote', 'On-Site', or 'Hybrid'. Remote listings often emphasize self-motivation, clear written communication, and asynchronous collaboration.",
+    "example": "A software developer lives in Chicago and works full-time for a technology company based in San Francisco, attending morning team meetings over Zoom and collaborating in Slack.",
+    "related_skills": [
+      "Asynchronous Communication",
+      "Self-Motivation",
+      "Virtual Collaboration",
+      "Time Management"
+    ],
+    "related_terms": [
+      "Hybrid Work",
+      "Full-Time Employment",
+      "On-Site Work",
+      "Distributed Team"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Employment",
+    "source": "U.S. Bureau of Labor Statistics (BLS) - Telework and Remote Work Statistics and Definitions",
+    "searchable_text": "Term: Remote Work\n\nCategory: Employment Terms\n\nShort Definition:\nA flexible work arrangement where employees perform their professional duties from home or any location outside the employer's physical office.\n\nSimple Explanation:\nRemote work means you do your job from a home desk, co-working space, or library instead of commuting to a corporate office building. You collaborate with your team via video calls, chat apps, and shared online document repositories.\n\nJob Context:\nMany technology job listings explicitly state whether a position is 'Remote', 'On-Site', or 'Hybrid'. Remote listings often emphasize self-motivation, clear written communication, and asynchronous collaboration.\n\nExample:\nA software developer lives in Chicago and works full-time for a technology company based in San Francisco, attending morning team meetings over Zoom and collaborating in Slack.\n\nRelated Skills:\nAsynchronous Communication, Self-Motivation, Virtual Collaboration, Time Management\n\nRelated Terms:\nHybrid Work, Full-Time Employment, On-Site Work, Distributed Team\n\nDifficulty:\nBeginner\n\nDomain:\nEmployment\n\nSource:\nU.S. Bureau of Labor Statistics (BLS) - Telework and Remote Work Statistics and Definitions"
+  },
+  {
+    "id": "emp_hybrid_work",
+    "term": "Hybrid Work",
+    "category": "Employment Terms",
+    "short_definition": "A blended working model where employees divide their working days between a physical corporate office and a remote home workspace.",
+    "simple_explanation": "Hybrid work gives you the best of both worlds. For example, you might go into the office on Tuesdays and Thursdays for face-to-face team brainstorming, and work quietly from home on Mondays, Wednesdays, and Fridays.",
+    "job_context": "Job postings for hybrid roles usually specify the in-office expectation, such as 'Hybrid (3 days in office, 2 days remote)', requiring candidates to live within commuting distance.",
+    "example": "A UI/UX designer travels to the downtown office two days a week to run in-person user testing sessions and spends the remaining three days working on wireframes from home.",
+    "related_skills": [
+      "Flexibility",
+      "Calendar Management",
+      "Communication",
+      "Work-Life Balance"
+    ],
+    "related_terms": [
+      "Remote Work",
+      "Full-Time Employment",
+      "On-Site Work",
+      "Employment Terms"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Employment",
+    "source": "Harvard Business Review & World Economic Forum Future of Work Research",
+    "searchable_text": "Term: Hybrid Work\n\nCategory: Employment Terms\n\nShort Definition:\nA blended working model where employees divide their working days between a physical corporate office and a remote home workspace.\n\nSimple Explanation:\nHybrid work gives you the best of both worlds. For example, you might go into the office on Tuesdays and Thursdays for face-to-face team brainstorming, and work quietly from home on Mondays, Wednesdays, and Fridays.\n\nJob Context:\nJob postings for hybrid roles usually specify the in-office expectation, such as 'Hybrid (3 days in office, 2 days remote)', requiring candidates to live within commuting distance.\n\nExample:\nA UI/UX designer travels to the downtown office two days a week to run in-person user testing sessions and spends the remaining three days working on wireframes from home.\n\nRelated Skills:\nFlexibility, Calendar Management, Communication, Work-Life Balance\n\nRelated Terms:\nRemote Work, Full-Time Employment, On-Site Work, Employment Terms\n\nDifficulty:\nBeginner\n\nDomain:\nEmployment\n\nSource:\nHarvard Business Review & World Economic Forum Future of Work Research"
+  },
+  {
+    "id": "emp_on_the_job_training",
+    "term": "On-the-Job Training",
+    "category": "Employment Terms",
+    "short_definition": "Practical training provided by an employer in the workplace to help an employee acquire the specific skills required for their daily duties.",
+    "simple_explanation": "On-the-job training (OJT) happens while you are working and earning your salary. Rather than studying from a textbook alone, a senior colleague or mentor walks you through internal tools, company workflows, and real projects step by step.",
+    "job_context": "Entry-level job descriptions often advertise 'comprehensive on-the-job training provided', reassuring candidates that they will be supported as they bridge the gap between academic theory and workplace practice.",
+    "example": "A newly hired junior systems administrator spends their first month shadowing a senior engineer to learn how to manage the company's internal server monitoring dashboards.",
+    "related_skills": [
+      "Active Listening",
+      "Note Taking",
+      "Curiosity",
+      "Continuous Learning"
+    ],
+    "related_terms": [
+      "Internship",
+      "Mentorship",
+      "Work Experience",
+      "Probation",
+      "Vocational Qualification"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Employment",
+    "source": "U.S. Department of Labor (DOL) Employment and Training Administration",
+    "searchable_text": "Term: On-the-Job Training\n\nCategory: Employment Terms\n\nShort Definition:\nPractical training provided by an employer in the workplace to help an employee acquire the specific skills required for their daily duties.\n\nSimple Explanation:\nOn-the-job training (OJT) happens while you are working and earning your salary. Rather than studying from a textbook alone, a senior colleague or mentor walks you through internal tools, company workflows, and real projects step by step.\n\nJob Context:\nEntry-level job descriptions often advertise 'comprehensive on-the-job training provided', reassuring candidates that they will be supported as they bridge the gap between academic theory and workplace practice.\n\nExample:\nA newly hired junior systems administrator spends their first month shadowing a senior engineer to learn how to manage the company's internal server monitoring dashboards.\n\nRelated Skills:\nActive Listening, Note Taking, Curiosity, Continuous Learning\n\nRelated Terms:\nInternship, Mentorship, Work Experience, Probation, Vocational Qualification\n\nDifficulty:\nBeginner\n\nDomain:\nEmployment\n\nSource:\nU.S. Department of Labor (DOL) Employment and Training Administration"
+  },
+  {
+    "id": "qual_bachelor_degree",
+    "term": "Bachelor's Degree",
+    "category": "Professional Qualifications",
+    "short_definition": "An undergraduate academic degree awarded by universities and colleges upon completion of an undergraduate course of study, usually lasting 3 to 4 years.",
+    "simple_explanation": "A bachelor's degree (like a B.S. in Computer Science or B.Tech in Information Technology) is the standard university diploma earned after secondary school. It provides a comprehensive foundation in mathematics, computing theory, and problem-solving.",
+    "job_context": "Many corporate job descriptions state 'Bachelor's degree in Computer Science, Engineering, or a related technical discipline required or equivalent practical experience.'",
+    "example": "A student completes four years of coursework in data structures, algorithms, and operating systems to graduate with a Bachelor of Science in Computer Science.",
+    "related_skills": [
+      "Critical Thinking",
+      "Academic Research",
+      "Foundational Mathematics",
+      "Written Communication"
+    ],
+    "related_terms": [
+      "Master's Degree",
+      "Degree Qualification",
+      "Academic Qualification",
+      "Diploma",
+      "Entry-Level"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Education",
+    "source": "U.S. Department of Education - National Center for Education Statistics (NCES)",
+    "searchable_text": "Term: Bachelor's Degree\n\nCategory: Professional Qualifications\n\nShort Definition:\nAn undergraduate academic degree awarded by universities and colleges upon completion of an undergraduate course of study, usually lasting 3 to 4 years.\n\nSimple Explanation:\nA bachelor's degree (like a B.S. in Computer Science or B.Tech in Information Technology) is the standard university diploma earned after secondary school. It provides a comprehensive foundation in mathematics, computing theory, and problem-solving.\n\nJob Context:\nMany corporate job descriptions state 'Bachelor's degree in Computer Science, Engineering, or a related technical discipline required or equivalent practical experience.'\n\nExample:\nA student completes four years of coursework in data structures, algorithms, and operating systems to graduate with a Bachelor of Science in Computer Science.\n\nRelated Skills:\nCritical Thinking, Academic Research, Foundational Mathematics, Written Communication\n\nRelated Terms:\nMaster's Degree, Degree Qualification, Academic Qualification, Diploma, Entry-Level\n\nDifficulty:\nBeginner\n\nDomain:\nEducation\n\nSource:\nU.S. Department of Education - National Center for Education Statistics (NCES)"
+  },
+  {
+    "id": "qual_master_degree",
+    "term": "Master's Degree",
+    "category": "Professional Qualifications",
+    "short_definition": "A post-graduate advanced academic degree granted to individuals who have completed study demonstrating a high level of mastery in a specific subject area.",
+    "simple_explanation": "A master's degree (such as an M.S. or M.Tech) is an advanced 1 to 2-year university degree pursued after earning a bachelor's. It dives deep into specialized topics like artificial intelligence, cybersecurity, or data engineering.",
+    "job_context": "Master's degrees are often preferred or required for advanced research roles, specialized data science and machine learning positions, and university teaching appointments.",
+    "example": "An engineer with two years of industry experience enrolls in a Master of Science in Artificial Intelligence program to specialize in computer vision and natural language processing.",
+    "related_skills": [
+      "Advanced Research",
+      "Statistical Modeling",
+      "Academic Publishing",
+      "Project Leadership"
+    ],
+    "related_terms": [
+      "Bachelor's Degree",
+      "Degree Qualification",
+      "Data Scientist",
+      "Academic Qualification",
+      "Machine Learning Engineer"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "Education",
+    "source": "U.S. Department of Education - Structure of the U.S. Education System: Master's Degrees",
+    "searchable_text": "Term: Master's Degree\n\nCategory: Professional Qualifications\n\nShort Definition:\nA post-graduate advanced academic degree granted to individuals who have completed study demonstrating a high level of mastery in a specific subject area.\n\nSimple Explanation:\nA master's degree (such as an M.S. or M.Tech) is an advanced 1 to 2-year university degree pursued after earning a bachelor's. It dives deep into specialized topics like artificial intelligence, cybersecurity, or data engineering.\n\nJob Context:\nMaster's degrees are often preferred or required for advanced research roles, specialized data science and machine learning positions, and university teaching appointments.\n\nExample:\nAn engineer with two years of industry experience enrolls in a Master of Science in Artificial Intelligence program to specialize in computer vision and natural language processing.\n\nRelated Skills:\nAdvanced Research, Statistical Modeling, Academic Publishing, Project Leadership\n\nRelated Terms:\nBachelor's Degree, Degree Qualification, Data Scientist, Academic Qualification, Machine Learning Engineer\n\nDifficulty:\nIntermediate\n\nDomain:\nEducation\n\nSource:\nU.S. Department of Education - Structure of the U.S. Education System: Master's Degrees"
+  },
+  {
+    "id": "qual_diploma",
+    "term": "Diploma",
+    "category": "Professional Qualifications",
+    "short_definition": "A certificate or vocational credential issued by an educational institution verifying that a student has completed a practical, specialized course of study.",
+    "simple_explanation": "A diploma is a shorter, hands-on educational program (often 1 to 2 years) that focuses on practical vocational skills rather than broad theoretical academic subjects. It prepares students to jump directly into specific technical jobs.",
+    "job_context": "Diplomas in computer programming, network administration, or web design are widely recognized for technical support, junior IT technician, and frontend developer positions.",
+    "example": "A high school graduate earns a 1-year Diploma in Computer Networking from a community technical institute and secures a job as a junior network support specialist.",
+    "related_skills": [
+      "Hands-on Technical Troubleshooting",
+      "Practical Application",
+      "Equipment Configuration"
+    ],
+    "related_terms": [
+      "Vocational Qualification",
+      "Professional Certification",
+      "Degree Qualification",
+      "Technical Certification"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Education",
+    "source": "UNESCO International Standard Classification of Education (ISCED)",
+    "searchable_text": "Term: Diploma\n\nCategory: Professional Qualifications\n\nShort Definition:\nA certificate or vocational credential issued by an educational institution verifying that a student has completed a practical, specialized course of study.\n\nSimple Explanation:\nA diploma is a shorter, hands-on educational program (often 1 to 2 years) that focuses on practical vocational skills rather than broad theoretical academic subjects. It prepares students to jump directly into specific technical jobs.\n\nJob Context:\nDiplomas in computer programming, network administration, or web design are widely recognized for technical support, junior IT technician, and frontend developer positions.\n\nExample:\nA high school graduate earns a 1-year Diploma in Computer Networking from a community technical institute and secures a job as a junior network support specialist.\n\nRelated Skills:\nHands-on Technical Troubleshooting, Practical Application, Equipment Configuration\n\nRelated Terms:\nVocational Qualification, Professional Certification, Degree Qualification, Technical Certification\n\nDifficulty:\nBeginner\n\nDomain:\nEducation\n\nSource:\nUNESCO International Standard Classification of Education (ISCED)"
+  },
+  {
+    "id": "qual_professional_certification",
+    "term": "Professional Certification",
+    "category": "Professional Qualifications",
+    "short_definition": "A credential awarded by an industry body or professional association confirming that an individual has demonstrated competency in a specific professional role.",
+    "simple_explanation": "A professional certification proves to employers that your skills meet recognized industry standards. Unlike a university degree that covers broad theory, a certification verifies that you know how to perform specific, standardized workplace tasks.",
+    "job_context": "Certifications (like PMP for project managers or CISSP for security managers) are frequently listed under 'preferred qualifications' on senior and specialized job descriptions.",
+    "example": "An IT project manager studies for and passes the Project Management Professional (PMP) examination to demonstrate mastery of industry-standard agile and waterfall project frameworks.",
+    "related_skills": [
+      "Standards Compliance",
+      "Project Governance",
+      "Professional Ethics",
+      "Industry Best Practices"
+    ],
+    "related_terms": [
+      "Technical Certification",
+      "Industry Certification",
+      "Professional Qualification",
+      "Accreditation"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "Professional Development",
+    "source": "Institute for Credentialing Excellence (ICE) Standard 1100",
+    "searchable_text": "Term: Professional Certification\n\nCategory: Professional Qualifications\n\nShort Definition:\nA credential awarded by an industry body or professional association confirming that an individual has demonstrated competency in a specific professional role.\n\nSimple Explanation:\nA professional certification proves to employers that your skills meet recognized industry standards. Unlike a university degree that covers broad theory, a certification verifies that you know how to perform specific, standardized workplace tasks.\n\nJob Context:\nCertifications (like PMP for project managers or CISSP for security managers) are frequently listed under 'preferred qualifications' on senior and specialized job descriptions.\n\nExample:\nAn IT project manager studies for and passes the Project Management Professional (PMP) examination to demonstrate mastery of industry-standard agile and waterfall project frameworks.\n\nRelated Skills:\nStandards Compliance, Project Governance, Professional Ethics, Industry Best Practices\n\nRelated Terms:\nTechnical Certification, Industry Certification, Professional Qualification, Accreditation\n\nDifficulty:\nIntermediate\n\nDomain:\nProfessional Development\n\nSource:\nInstitute for Credentialing Excellence (ICE) Standard 1100"
+  },
+  {
+    "id": "qual_technical_certification",
+    "term": "Technical Certification",
+    "category": "Professional Qualifications",
+    "short_definition": "A credential verifying practical technical proficiency with a specific software tool, programming language, cloud platform, or technology stack.",
+    "simple_explanation": "Technical certifications prove that you know how to use specific software or hardware tools. You study the tool, sit for a proctored exam, and receive a badge from the technology vendor (like AWS, Microsoft, or Cisco) that validates your hands-on ability.",
+    "job_context": "Entry-level candidates without formal computer science degrees often earn technical certifications (e.g., AWS Certified Cloud Practitioner or CompTIA Security+) to prove their hands-on skills to recruiters.",
+    "example": "A career switcher passes the AWS Certified Solutions Architect exam to demonstrate practical ability in designing secure cloud infrastructure on Amazon Web Services.",
+    "related_skills": [
+      "Cloud Architecture",
+      "System Configuration",
+      "Hands-on Implementation",
+      "Vendor Tooling"
+    ],
+    "related_terms": [
+      "Professional Certification",
+      "Industry Certification",
+      "Cloud Engineer",
+      "AWS",
+      "Cybersecurity Analyst"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Professional Development",
+    "source": "CompTIA & AWS Certification Standards and Frameworks",
+    "searchable_text": "Term: Technical Certification\n\nCategory: Professional Qualifications\n\nShort Definition:\nA credential verifying practical technical proficiency with a specific software tool, programming language, cloud platform, or technology stack.\n\nSimple Explanation:\nTechnical certifications prove that you know how to use specific software or hardware tools. You study the tool, sit for a proctored exam, and receive a badge from the technology vendor (like AWS, Microsoft, or Cisco) that validates your hands-on ability.\n\nJob Context:\nEntry-level candidates without formal computer science degrees often earn technical certifications (e.g., AWS Certified Cloud Practitioner or CompTIA Security+) to prove their hands-on skills to recruiters.\n\nExample:\nA career switcher passes the AWS Certified Solutions Architect exam to demonstrate practical ability in designing secure cloud infrastructure on Amazon Web Services.\n\nRelated Skills:\nCloud Architecture, System Configuration, Hands-on Implementation, Vendor Tooling\n\nRelated Terms:\nProfessional Certification, Industry Certification, Cloud Engineer, AWS, Cybersecurity Analyst\n\nDifficulty:\nBeginner\n\nDomain:\nProfessional Development\n\nSource:\nCompTIA & AWS Certification Standards and Frameworks"
+  },
+  {
+    "id": "qual_degree_qualification",
+    "term": "Degree Qualification",
+    "category": "Professional Qualifications",
+    "short_definition": "An academic credential conferred by an accredited college or university representing the successful completion of a formal degree program.",
+    "simple_explanation": "Degree qualification is the broad category encompassing associate, bachelor's, master's, and doctoral degrees. It signifies structured, multi-year learning that combines subject-specific expertise with critical thinking and communication skills.",
+    "job_context": "Job applications frequently ask applicants to indicate their 'highest degree qualification achieved' on screening questionnaires to verify educational compliance.",
+    "example": "On an online job application portal, an applicant selects 'Bachelor's Degree' under the Degree Qualification drop-down menu and enters their graduation year.",
+    "related_skills": [
+      "Formal Communication",
+      "Analytical Reasoning",
+      "Academic Discipline",
+      "Information Synthesis"
+    ],
+    "related_terms": [
+      "Bachelor's Degree",
+      "Master's Degree",
+      "Academic Qualification",
+      "Professional Qualification"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Education",
+    "source": "UNESCO International Standard Classification of Education (ISCED - Levels 6 to 8)",
+    "searchable_text": "Term: Degree Qualification\n\nCategory: Professional Qualifications\n\nShort Definition:\nAn academic credential conferred by an accredited college or university representing the successful completion of a formal degree program.\n\nSimple Explanation:\nDegree qualification is the broad category encompassing associate, bachelor's, master's, and doctoral degrees. It signifies structured, multi-year learning that combines subject-specific expertise with critical thinking and communication skills.\n\nJob Context:\nJob applications frequently ask applicants to indicate their 'highest degree qualification achieved' on screening questionnaires to verify educational compliance.\n\nExample:\nOn an online job application portal, an applicant selects 'Bachelor's Degree' under the Degree Qualification drop-down menu and enters their graduation year.\n\nRelated Skills:\nFormal Communication, Analytical Reasoning, Academic Discipline, Information Synthesis\n\nRelated Terms:\nBachelor's Degree, Master's Degree, Academic Qualification, Professional Qualification\n\nDifficulty:\nBeginner\n\nDomain:\nEducation\n\nSource:\nUNESCO International Standard Classification of Education (ISCED - Levels 6 to 8)"
+  },
+  {
+    "id": "qual_professional_qualification",
+    "term": "Professional Qualification",
+    "category": "Professional Qualifications",
+    "short_definition": "A formal qualification issued by a recognized professional or statutory body granting formal recognition of professional competence and authorization to practice.",
+    "simple_explanation": "A professional qualification is an official credential that verifies you have met the rigorous education, practical experience, and ethics standards required to hold a recognized professional title in your field.",
+    "job_context": "Certain regulated disciplines—such as chartered engineering, certified public accounting, and licensed cybersecurity auditing—mandate professional qualifications by law or industry regulation.",
+    "example": "An experienced systems engineer earns the title of Chartered Engineer (CEng) from an accredited engineering council, signifying senior professional competence.",
+    "related_skills": [
+      "Professional Governance",
+      "Statutory Compliance",
+      "Ethical Decision Making",
+      "Risk Management"
+    ],
+    "related_terms": [
+      "Professional Certification",
+      "Degree Qualification",
+      "Accreditation",
+      "Licensure"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "Professional Development",
+    "source": "UK Engineering Council & National Society of Professional Engineers (NSPE) Licensure Framework",
+    "searchable_text": "Term: Professional Qualification\n\nCategory: Professional Qualifications\n\nShort Definition:\nA formal qualification issued by a recognized professional or statutory body granting formal recognition of professional competence and authorization to practice.\n\nSimple Explanation:\nA professional qualification is an official credential that verifies you have met the rigorous education, practical experience, and ethics standards required to hold a recognized professional title in your field.\n\nJob Context:\nCertain regulated disciplines—such as chartered engineering, certified public accounting, and licensed cybersecurity auditing—mandate professional qualifications by law or industry regulation.\n\nExample:\nAn experienced systems engineer earns the title of Chartered Engineer (CEng) from an accredited engineering council, signifying senior professional competence.\n\nRelated Skills:\nProfessional Governance, Statutory Compliance, Ethical Decision Making, Risk Management\n\nRelated Terms:\nProfessional Certification, Degree Qualification, Accreditation, Licensure\n\nDifficulty:\nIntermediate\n\nDomain:\nProfessional Development\n\nSource:\nUK Engineering Council & National Society of Professional Engineers (NSPE) Licensure Framework"
+  },
+  {
+    "id": "qual_vocational_qualification",
+    "term": "Vocational Qualification",
+    "category": "Professional Qualifications",
+    "short_definition": "A career-focused credential that evaluates and certifies an individual's practical ability to perform specific occupational workplace tasks.",
+    "simple_explanation": "Vocational qualifications focus entirely on practical, hands-on training for specific trades or careers. Rather than writing long theoretical research papers, students demonstrate their competence through practical workshop assessments and lab exercises.",
+    "job_context": "Vocational qualifications in IT (like computer hardware repair, fiber-optic cabling, or web interface development) prepare learners for immediate technical support and technician roles.",
+    "example": "A student completes a vocational certificate in computer systems maintenance and begins working as a desktop support technician at a local school district.",
+    "related_skills": [
+      "Hardware Diagnostics",
+      "Practical Troubleshooting",
+      "Equipment Assembly",
+      "Customer Service"
+    ],
+    "related_terms": [
+      "Diploma",
+      "On-the-Job Training",
+      "Apprenticeship",
+      "Technical Certification"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Education",
+    "source": "International Labour Organization (ILO) Vocational Training Guidelines",
+    "searchable_text": "Term: Vocational Qualification\n\nCategory: Professional Qualifications\n\nShort Definition:\nA career-focused credential that evaluates and certifies an individual's practical ability to perform specific occupational workplace tasks.\n\nSimple Explanation:\nVocational qualifications focus entirely on practical, hands-on training for specific trades or careers. Rather than writing long theoretical research papers, students demonstrate their competence through practical workshop assessments and lab exercises.\n\nJob Context:\nVocational qualifications in IT (like computer hardware repair, fiber-optic cabling, or web interface development) prepare learners for immediate technical support and technician roles.\n\nExample:\nA student completes a vocational certificate in computer systems maintenance and begins working as a desktop support technician at a local school district.\n\nRelated Skills:\nHardware Diagnostics, Practical Troubleshooting, Equipment Assembly, Customer Service\n\nRelated Terms:\nDiploma, On-the-Job Training, Apprenticeship, Technical Certification\n\nDifficulty:\nBeginner\n\nDomain:\nEducation\n\nSource:\nInternational Labour Organization (ILO) Vocational Training Guidelines"
+  },
+  {
+    "id": "qual_industry_certification",
+    "term": "Industry Certification",
+    "category": "Professional Qualifications",
+    "short_definition": "A vendor-backed or industry-consortium credential that assesses an individual's ability to implement and troubleshoot standard technologies in commercial settings.",
+    "simple_explanation": "An industry certification is created directly by major tech companies (like Cisco, Google, Microsoft, or Red Hat) or industry groups to test real-world technical skills. Employers value them because they know the exam reflects current, working technology.",
+    "job_context": "Tech recruiters often filter resume databases using specific industry certification acronyms, such as CCNA, AWS SAA, or CKA, to find candidates with pre-verified hands-on capabilities.",
+    "example": "A network administrator earns the Cisco Certified Network Associate (CCNA) certification, proving to employers that they can configure and troubleshoot enterprise switches and routers.",
+    "related_skills": [
+      "Vendor Configuration",
+      "Network Administration",
+      "Cloud Setup",
+      "Troubleshooting"
+    ],
+    "related_terms": [
+      "Technical Certification",
+      "Professional Certification",
+      "AWS",
+      "Linux",
+      "Cybersecurity Analyst"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Professional Development",
+    "source": "Cisco Systems & CompTIA Industry Certification Frameworks",
+    "searchable_text": "Term: Industry Certification\n\nCategory: Professional Qualifications\n\nShort Definition:\nA vendor-backed or industry-consortium credential that assesses an individual's ability to implement and troubleshoot standard technologies in commercial settings.\n\nSimple Explanation:\nAn industry certification is created directly by major tech companies (like Cisco, Google, Microsoft, or Red Hat) or industry groups to test real-world technical skills. Employers value them because they know the exam reflects current, working technology.\n\nJob Context:\nTech recruiters often filter resume databases using specific industry certification acronyms, such as CCNA, AWS SAA, or CKA, to find candidates with pre-verified hands-on capabilities.\n\nExample:\nA network administrator earns the Cisco Certified Network Associate (CCNA) certification, proving to employers that they can configure and troubleshoot enterprise switches and routers.\n\nRelated Skills:\nVendor Configuration, Network Administration, Cloud Setup, Troubleshooting\n\nRelated Terms:\nTechnical Certification, Professional Certification, AWS, Linux, Cybersecurity Analyst\n\nDifficulty:\nBeginner\n\nDomain:\nProfessional Development\n\nSource:\nCisco Systems & CompTIA Industry Certification Frameworks"
+  },
+  {
+    "id": "ind_api",
+    "term": "API",
+    "category": "Industry Terminology",
+    "short_definition": "Application Programming Interface, a set of defined rules and protocols that allows different software applications to communicate and share data with one another.",
+    "simple_explanation": "An API is a digital messenger or bridge. Instead of building every feature from scratch, an app uses an API to ask another service for information—such as a rideshare app using Google Maps API to show directions or an online store using PayPal's API to process payments.",
+    "job_context": "APIs appear in almost every developer job description. Frontend engineers consume APIs to display live data, backend engineers build and secure APIs, and QA testers write automated tests to verify API endpoints.",
+    "example": "A food delivery app uses the Twilio SMS API to automatically text customers a notification when their order has been picked up by the delivery driver.",
+    "related_skills": [
+      "REST API",
+      "JSON",
+      "HTTP Protocols",
+      "Backend Development",
+      "System Integration"
+    ],
+    "related_terms": [
+      "REST API",
+      "Backend Developer",
+      "Microservices",
+      "Web Application",
+      "Authentication"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "W3C Architecture of the World Wide Web & IEEE API Design Standards",
+    "searchable_text": "Term: API\n\nCategory: Industry Terminology\n\nShort Definition:\nApplication Programming Interface, a set of defined rules and protocols that allows different software applications to communicate and share data with one another.\n\nSimple Explanation:\nAn API is a digital messenger or bridge. Instead of building every feature from scratch, an app uses an API to ask another service for information—such as a rideshare app using Google Maps API to show directions or an online store using PayPal's API to process payments.\n\nJob Context:\nAPIs appear in almost every developer job description. Frontend engineers consume APIs to display live data, backend engineers build and secure APIs, and QA testers write automated tests to verify API endpoints.\n\nExample:\nA food delivery app uses the Twilio SMS API to automatically text customers a notification when their order has been picked up by the delivery driver.\n\nRelated Skills:\nREST API, JSON, HTTP Protocols, Backend Development, System Integration\n\nRelated Terms:\nREST API, Backend Developer, Microservices, Web Application, Authentication\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nW3C Architecture of the World Wide Web & IEEE API Design Standards"
+  },
+  {
+    "id": "ind_ci_cd",
+    "term": "CI/CD",
+    "category": "Industry Terminology",
+    "short_definition": "Continuous Integration and Continuous Deployment, an automated methodology that continuously builds, tests, and delivers code changes into production.",
+    "simple_explanation": "CI/CD is like an automated assembly line and safety inspection for code. Every time a developer saves new code, automated servers immediately run tests to make sure nothing is broken, package the application, and deploy it to users without manual intervention.",
+    "job_context": "CI/CD is a cornerstone practice in modern software teams. Job descriptions for DevOps engineers, software developers, and cloud engineers routinely ask for experience with CI/CD tools like GitHub Actions, GitLab CI, or Jenkins.",
+    "example": "When a developer merges their bug fix into the main branch on GitHub, the CI/CD pipeline automatically runs 200 automated tests and deploys the updated code to live servers within 5 minutes.",
+    "related_skills": [
+      "DevOps",
+      "Git",
+      "Docker",
+      "Automated Testing",
+      "Bash Scripting"
+    ],
+    "related_terms": [
+      "Deployment",
+      "DevOps Engineer",
+      "Version Control",
+      "Repository",
+      "Software Development Life Cycle"
+    ],
+    "difficulty": "Intermediate",
+    "domain": "DevOps",
+    "source": "IEEE Software Engineering Best Practices for Continuous Delivery",
+    "searchable_text": "Term: CI/CD\n\nCategory: Industry Terminology\n\nShort Definition:\nContinuous Integration and Continuous Deployment, an automated methodology that continuously builds, tests, and delivers code changes into production.\n\nSimple Explanation:\nCI/CD is like an automated assembly line and safety inspection for code. Every time a developer saves new code, automated servers immediately run tests to make sure nothing is broken, package the application, and deploy it to users without manual intervention.\n\nJob Context:\nCI/CD is a cornerstone practice in modern software teams. Job descriptions for DevOps engineers, software developers, and cloud engineers routinely ask for experience with CI/CD tools like GitHub Actions, GitLab CI, or Jenkins.\n\nExample:\nWhen a developer merges their bug fix into the main branch on GitHub, the CI/CD pipeline automatically runs 200 automated tests and deploys the updated code to live servers within 5 minutes.\n\nRelated Skills:\nDevOps, Git, Docker, Automated Testing, Bash Scripting\n\nRelated Terms:\nDeployment, DevOps Engineer, Version Control, Repository, Software Development Life Cycle\n\nDifficulty:\nIntermediate\n\nDomain:\nDevOps\n\nSource:\nIEEE Software Engineering Best Practices for Continuous Delivery"
+  },
+  {
+    "id": "ind_deployment",
+    "term": "Deployment",
+    "category": "Industry Terminology",
+    "short_definition": "The technical process of releasing, installing, and configuring tested software from a development environment onto live servers where end users can access it.",
+    "simple_explanation": "Deployment is the moment a software project 'goes live' to the world. It is like opening the doors on grand opening day: your code moves from your private workshop onto public servers so that anyone with a web browser or phone can start using the new features.",
+    "job_context": "The meaning of deployment shifts slightly depending on the role: software developers see it as delivering a tested feature branch, while cloud and DevOps engineers manage the live traffic routing, server scaling, and zero-downtime rollouts.",
+    "example": "After a team finishes testing an upgraded search algorithm, they execute a deployment at midnight so customers wake up to the faster search experience the next morning.",
+    "related_skills": [
+      "Cloud Computing",
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "Linux"
+    ],
+    "related_terms": [
+      "CI/CD",
+      "Production Environment",
+      "Staging Environment",
+      "DevOps Engineer",
+      "Cloud Engineer"
+    ],
+    "difficulty": "Beginner",
+    "domain": "DevOps",
+    "source": "ACM/IEEE Guide to the Software Engineering Body of Knowledge (SWEBOK v3.0)",
+    "searchable_text": "Term: Deployment\n\nCategory: Industry Terminology\n\nShort Definition:\nThe technical process of releasing, installing, and configuring tested software from a development environment onto live servers where end users can access it.\n\nSimple Explanation:\nDeployment is the moment a software project 'goes live' to the world. It is like opening the doors on grand opening day: your code moves from your private workshop onto public servers so that anyone with a web browser or phone can start using the new features.\n\nJob Context:\nThe meaning of deployment shifts slightly depending on the role: software developers see it as delivering a tested feature branch, while cloud and DevOps engineers manage the live traffic routing, server scaling, and zero-downtime rollouts.\n\nExample:\nAfter a team finishes testing an upgraded search algorithm, they execute a deployment at midnight so customers wake up to the faster search experience the next morning.\n\nRelated Skills:\nCloud Computing, CI/CD, Docker, Kubernetes, Linux\n\nRelated Terms:\nCI/CD, Production Environment, Staging Environment, DevOps Engineer, Cloud Engineer\n\nDifficulty:\nBeginner\n\nDomain:\nDevOps\n\nSource:\nACM/IEEE Guide to the Software Engineering Body of Knowledge (SWEBOK v3.0)"
+  },
+  {
+    "id": "ind_framework",
+    "term": "Framework",
+    "category": "Industry Terminology",
+    "short_definition": "A pre-built foundation and collection of standardized code libraries that provides a structured template for developing software applications.",
+    "simple_explanation": "A framework is like a pre-fabricated house frame. Instead of manufacturing every single wooden beam, nail, and electrical socket yourself, the framework gives you the sturdy structure and plumbing, allowing you to focus on decorating and designing the specific rooms.",
+    "job_context": "Job postings rarely ask for just a language; they ask for specific frameworks. For example, Python postings frequently ask for Django or FastAPI, JavaScript postings ask for React or Angular, and Java postings ask for Spring Boot.",
+    "example": "Instead of writing thousands of lines of code to handle web requests and database connections manually, a developer uses the Django framework to launch a secure web app in one afternoon.",
+    "related_skills": [
+      "Programming",
+      "Software Architecture",
+      "API Design",
+      "Component Design"
+    ],
+    "related_terms": [
+      "Software Developer",
+      "Python",
+      "JavaScript",
+      "Java",
+      "Web Application"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "IEEE Standard Glossary of Software Engineering Terminology",
+    "searchable_text": "Term: Framework\n\nCategory: Industry Terminology\n\nShort Definition:\nA pre-built foundation and collection of standardized code libraries that provides a structured template for developing software applications.\n\nSimple Explanation:\nA framework is like a pre-fabricated house frame. Instead of manufacturing every single wooden beam, nail, and electrical socket yourself, the framework gives you the sturdy structure and plumbing, allowing you to focus on decorating and designing the specific rooms.\n\nJob Context:\nJob postings rarely ask for just a language; they ask for specific frameworks. For example, Python postings frequently ask for Django or FastAPI, JavaScript postings ask for React or Angular, and Java postings ask for Spring Boot.\n\nExample:\nInstead of writing thousands of lines of code to handle web requests and database connections manually, a developer uses the Django framework to launch a secure web app in one afternoon.\n\nRelated Skills:\nProgramming, Software Architecture, API Design, Component Design\n\nRelated Terms:\nSoftware Developer, Python, JavaScript, Java, Web Application\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nIEEE Standard Glossary of Software Engineering Terminology"
+  },
+  {
+    "id": "ind_repository",
+    "term": "Repository",
+    "category": "Industry Terminology",
+    "short_definition": "A centralized digital storage location where all source code files, assets, documentation, and the complete revision history of a project are managed.",
+    "simple_explanation": "A repository (commonly nicknamed a 'repo') is the dedicated digital folder for a software project. It stores all your project files alongside a detailed history log of every single change ever made, who made it, and why.",
+    "job_context": "On day one of an engineering job, your manager will grant you access to the company's code repository on GitHub or GitLab so you can clone the codebase to your laptop and start reviewing the code.",
+    "example": "A junior developer clones their team's mobile app repository to their laptop so they can run the app locally and begin fixing an open issue.",
+    "related_skills": [
+      "Git",
+      "GitHub",
+      "Code Review",
+      "Documentation"
+    ],
+    "related_terms": [
+      "Git",
+      "GitHub",
+      "Version Control",
+      "Open Source",
+      "Software Development Life Cycle"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "Git SCM Architecture and Documentation (git-scm.com)",
+    "searchable_text": "Term: Repository\n\nCategory: Industry Terminology\n\nShort Definition:\nA centralized digital storage location where all source code files, assets, documentation, and the complete revision history of a project are managed.\n\nSimple Explanation:\nA repository (commonly nicknamed a 'repo') is the dedicated digital folder for a software project. It stores all your project files alongside a detailed history log of every single change ever made, who made it, and why.\n\nJob Context:\nOn day one of an engineering job, your manager will grant you access to the company's code repository on GitHub or GitLab so you can clone the codebase to your laptop and start reviewing the code.\n\nExample:\nA junior developer clones their team's mobile app repository to their laptop so they can run the app locally and begin fixing an open issue.\n\nRelated Skills:\nGit, GitHub, Code Review, Documentation\n\nRelated Terms:\nGit, GitHub, Version Control, Open Source, Software Development Life Cycle\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nGit SCM Architecture and Documentation (git-scm.com)"
+  },
+  {
+    "id": "ind_open_source",
+    "term": "Open Source",
+    "category": "Industry Terminology",
+    "short_definition": "Software whose original source code is made freely available to the public for anyone to inspect, modify, enhance, and redistribute.",
+    "simple_explanation": "Open source is like a community recipe where the master chef shares all ingredients and steps online. Anyone around the world can cook it, suggest new seasonings, fix mistakes, and share improved versions freely with everyone else.",
+    "job_context": "Companies rely heavily on open-source technologies (like Linux, Python, and PostgreSQL). Contributing to open-source projects is one of the best ways for beginners to gain real-world experience and catch the attention of tech recruiters.",
+    "example": "A college student fixes a typo and adds a unit test to an open-source data library on GitHub; the maintainer accepts the contribution, making it visible to recruiters.",
+    "related_skills": [
+      "Git",
+      "GitHub",
+      "Code Collaboration",
+      "Technical Writing",
+      "Peer Review"
+    ],
+    "related_terms": [
+      "GitHub",
+      "Repository",
+      "Linux",
+      "Software Developer",
+      "Community Governance"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "Open Source Initiative (OSI) - The Open Source Definition",
+    "searchable_text": "Term: Open Source\n\nCategory: Industry Terminology\n\nShort Definition:\nSoftware whose original source code is made freely available to the public for anyone to inspect, modify, enhance, and redistribute.\n\nSimple Explanation:\nOpen source is like a community recipe where the master chef shares all ingredients and steps online. Anyone around the world can cook it, suggest new seasonings, fix mistakes, and share improved versions freely with everyone else.\n\nJob Context:\nCompanies rely heavily on open-source technologies (like Linux, Python, and PostgreSQL). Contributing to open-source projects is one of the best ways for beginners to gain real-world experience and catch the attention of tech recruiters.\n\nExample:\nA college student fixes a typo and adds a unit test to an open-source data library on GitHub; the maintainer accepts the contribution, making it visible to recruiters.\n\nRelated Skills:\nGit, GitHub, Code Collaboration, Technical Writing, Peer Review\n\nRelated Terms:\nGitHub, Repository, Linux, Software Developer, Community Governance\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nOpen Source Initiative (OSI) - The Open Source Definition"
+  },
+  {
+    "id": "ind_cloud_computing",
+    "term": "Cloud Computing",
+    "category": "Industry Terminology",
+    "short_definition": "The on-demand delivery of computing resources—including storage, processing power, servers, and software—over the internet with pay-as-you-go pricing.",
+    "simple_explanation": "Cloud computing is like using electricity from a power grid. You do not need to build your own power generator in your backyard; you simply plug into the wall and pay only for the electricity you actually use. Cloud computing gives businesses the same flexible access to computer servers.",
+    "job_context": "Most modern businesses have migrated their systems to the cloud, making cloud computing knowledge a critical requirement for developers, data engineers, and systems administrators.",
+    "example": "A video streaming platform uses cloud computing to automatically spin up 100 extra virtual servers during a popular live sports broadcast and shuts them down when the game ends.",
+    "related_skills": [
+      "AWS",
+      "Linux",
+      "DevOps",
+      "Networking",
+      "Cost Optimization"
+    ],
+    "related_terms": [
+      "Cloud Engineer",
+      "AWS",
+      "Deployment",
+      "Virtual Machine",
+      "Server"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Cloud Computing",
+    "source": "National Institute of Standards and Technology (NIST) Definition of Cloud Computing (SP 800-145)",
+    "searchable_text": "Term: Cloud Computing\n\nCategory: Industry Terminology\n\nShort Definition:\nThe on-demand delivery of computing resources—including storage, processing power, servers, and software—over the internet with pay-as-you-go pricing.\n\nSimple Explanation:\nCloud computing is like using electricity from a power grid. You do not need to build your own power generator in your backyard; you simply plug into the wall and pay only for the electricity you actually use. Cloud computing gives businesses the same flexible access to computer servers.\n\nJob Context:\nMost modern businesses have migrated their systems to the cloud, making cloud computing knowledge a critical requirement for developers, data engineers, and systems administrators.\n\nExample:\nA video streaming platform uses cloud computing to automatically spin up 100 extra virtual servers during a popular live sports broadcast and shuts them down when the game ends.\n\nRelated Skills:\nAWS, Linux, DevOps, Networking, Cost Optimization\n\nRelated Terms:\nCloud Engineer, AWS, Deployment, Virtual Machine, Server\n\nDifficulty:\nBeginner\n\nDomain:\nCloud Computing\n\nSource:\nNational Institute of Standards and Technology (NIST) Definition of Cloud Computing (SP 800-145)"
+  },
+  {
+    "id": "ind_version_control",
+    "term": "Version Control",
+    "category": "Industry Terminology",
+    "short_definition": "A software system that tracks, records, and manages incremental changes made to source code files and documents over time.",
+    "simple_explanation": "Version control ensures that you never have messy filenames like 'Project_Final_v2_really_final.zip'. Instead, the system automatically tracks every modification, lets multiple engineers edit the same files simultaneously without conflicts, and allows you to roll back any mistake.",
+    "job_context": "Version control (primarily using Git) is a non-negotiable prerequisite for nearly all technical job postings across software development, data engineering, and technical writing.",
+    "example": "When a software update introduces an unexpected bug that slows down checkout, the engineering lead uses version control to safely revert the code back to the stable build from yesterday.",
+    "related_skills": [
+      "Git",
+      "GitHub",
+      "Branch Management",
+      "Collaboration",
+      "Code Review"
+    ],
+    "related_terms": [
+      "Git",
+      "GitHub",
+      "Repository",
+      "Software Development Life Cycle",
+      "Branch"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "ACM/IEEE Guide to the Software Engineering Body of Knowledge (SWEBOK v3.0)",
+    "searchable_text": "Term: Version Control\n\nCategory: Industry Terminology\n\nShort Definition:\nA software system that tracks, records, and manages incremental changes made to source code files and documents over time.\n\nSimple Explanation:\nVersion control ensures that you never have messy filenames like 'Project_Final_v2_really_final.zip'. Instead, the system automatically tracks every modification, lets multiple engineers edit the same files simultaneously without conflicts, and allows you to roll back any mistake.\n\nJob Context:\nVersion control (primarily using Git) is a non-negotiable prerequisite for nearly all technical job postings across software development, data engineering, and technical writing.\n\nExample:\nWhen a software update introduces an unexpected bug that slows down checkout, the engineering lead uses version control to safely revert the code back to the stable build from yesterday.\n\nRelated Skills:\nGit, GitHub, Branch Management, Collaboration, Code Review\n\nRelated Terms:\nGit, GitHub, Repository, Software Development Life Cycle, Branch\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nACM/IEEE Guide to the Software Engineering Body of Knowledge (SWEBOK v3.0)"
+  },
+  {
+    "id": "ind_database",
+    "term": "Database",
+    "category": "Industry Terminology",
+    "short_definition": "An organized, structured electronic collection of data stored and accessed computationally from a computer system.",
+    "simple_explanation": "A database is like a supercharged, highly organized electronic filing cabinet. Unlike a basic spreadsheet that slows down with too many rows, a database can safely store millions of customer records, search through them in milliseconds, and ensure multiple people can write data at the exact same moment without corrupting files.",
+    "job_context": "Database knowledge (especially relational databases like PostgreSQL or MySQL using SQL) is a core requirement for backend developers, data analysts, data scientists, and systems administrators.",
+    "example": "When you sign into a social media app, the application queries a database to retrieve your profile picture, friend list, and recent notifications in a fraction of a second.",
+    "related_skills": [
+      "SQL",
+      "Data Modeling",
+      "Database Management",
+      "Data Integrity",
+      "Performance Tuning"
+    ],
+    "related_terms": [
+      "SQL",
+      "Database Administrator",
+      "Data Analyst",
+      "Backend Developer",
+      "Relational Database"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "C.J. Date - An Introduction to Database Systems & ACM SIGMOD Standards",
+    "searchable_text": "Term: Database\n\nCategory: Industry Terminology\n\nShort Definition:\nAn organized, structured electronic collection of data stored and accessed computationally from a computer system.\n\nSimple Explanation:\nA database is like a supercharged, highly organized electronic filing cabinet. Unlike a basic spreadsheet that slows down with too many rows, a database can safely store millions of customer records, search through them in milliseconds, and ensure multiple people can write data at the exact same moment without corrupting files.\n\nJob Context:\nDatabase knowledge (especially relational databases like PostgreSQL or MySQL using SQL) is a core requirement for backend developers, data analysts, data scientists, and systems administrators.\n\nExample:\nWhen you sign into a social media app, the application queries a database to retrieve your profile picture, friend list, and recent notifications in a fraction of a second.\n\nRelated Skills:\nSQL, Data Modeling, Database Management, Data Integrity, Performance Tuning\n\nRelated Terms:\nSQL, Database Administrator, Data Analyst, Backend Developer, Relational Database\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nC.J. Date - An Introduction to Database Systems & ACM SIGMOD Standards"
+  },
+  {
+    "id": "ind_sdlc",
+    "term": "Software Development Life Cycle",
+    "category": "Industry Terminology",
+    "short_definition": "A systematic, phased process used by engineering teams to design, develop, test, deploy, and maintain high-quality software applications.",
+    "simple_explanation": "The SDLC (Software Development Life Cycle) is the recipe book for building reliable software. Instead of jumping straight into coding and hoping for the best, teams follow clear stages: planning what to build, designing how it works, writing the code, thoroughly testing it, deploying it to users, and maintaining it over time.",
+    "job_context": "Understanding the SDLC is fundamental for entry-level developers so they understand how their daily coding tasks fit into the broader company timeline, testing stages, and release schedules.",
+    "example": "During the testing phase of the SDLC, QA engineers run automated test suites to find and report bugs before the software is released to paying customers.",
+    "related_skills": [
+      "Project Planning",
+      "Quality Assurance",
+      "Agile Methodologies",
+      "Testing",
+      "Documentation"
+    ],
+    "related_terms": [
+      "Agile",
+      "Scrum",
+      "Deployment",
+      "Software Developer",
+      "Testing"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "ISO/IEC/IEEE 12207 - Systems and Software Engineering: Software Life Cycle Processes",
+    "searchable_text": "Term: Software Development Life Cycle\n\nCategory: Industry Terminology\n\nShort Definition:\nA systematic, phased process used by engineering teams to design, develop, test, deploy, and maintain high-quality software applications.\n\nSimple Explanation:\nThe SDLC (Software Development Life Cycle) is the recipe book for building reliable software. Instead of jumping straight into coding and hoping for the best, teams follow clear stages: planning what to build, designing how it works, writing the code, thoroughly testing it, deploying it to users, and maintaining it over time.\n\nJob Context:\nUnderstanding the SDLC is fundamental for entry-level developers so they understand how their daily coding tasks fit into the broader company timeline, testing stages, and release schedules.\n\nExample:\nDuring the testing phase of the SDLC, QA engineers run automated test suites to find and report bugs before the software is released to paying customers.\n\nRelated Skills:\nProject Planning, Quality Assurance, Agile Methodologies, Testing, Documentation\n\nRelated Terms:\nAgile, Scrum, Deployment, Software Developer, Testing\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nISO/IEC/IEEE 12207 - Systems and Software Engineering: Software Life Cycle Processes"
+  },
+  {
+    "id": "ind_agile",
+    "term": "Agile",
+    "category": "Industry Terminology",
+    "short_definition": "An iterative approach to project management and software development that emphasizes delivering small, working increments of software with rapid feedback.",
+    "simple_explanation": "Rather than spending two years planning and building a massive software system in secret only to discover users dislike it, Agile teams build small, functional pieces in short cycles (usually 2 weeks). They show their progress to users, gather feedback, and continuously adjust their direction.",
+    "job_context": "Agile is the dominant working methodology in the software industry. Job descriptions frequently state: 'Experience working in an Agile/Scrum cross-functional team environment.'",
+    "example": "An engineering team uses Agile principles to release a basic version of a new search filter within two weeks, gathering user feedback before spending time building advanced filtering options.",
+    "related_skills": [
+      "Collaboration",
+      "Adaptability",
+      "User Feedback Analysis",
+      "Sprint Planning"
+    ],
+    "related_terms": [
+      "Scrum",
+      "Software Development Life Cycle",
+      "Sprint",
+      "Kanban",
+      "Product Manager"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "The Agile Manifesto (agilemanifesto.org) & Project Management Institute (PMI) Agile Practice Guide",
+    "searchable_text": "Term: Agile\n\nCategory: Industry Terminology\n\nShort Definition:\nAn iterative approach to project management and software development that emphasizes delivering small, working increments of software with rapid feedback.\n\nSimple Explanation:\nRather than spending two years planning and building a massive software system in secret only to discover users dislike it, Agile teams build small, functional pieces in short cycles (usually 2 weeks). They show their progress to users, gather feedback, and continuously adjust their direction.\n\nJob Context:\nAgile is the dominant working methodology in the software industry. Job descriptions frequently state: 'Experience working in an Agile/Scrum cross-functional team environment.'\n\nExample:\nAn engineering team uses Agile principles to release a basic version of a new search filter within two weeks, gathering user feedback before spending time building advanced filtering options.\n\nRelated Skills:\nCollaboration, Adaptability, User Feedback Analysis, Sprint Planning\n\nRelated Terms:\nScrum, Software Development Life Cycle, Sprint, Kanban, Product Manager\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nThe Agile Manifesto (agilemanifesto.org) & Project Management Institute (PMI) Agile Practice Guide"
+  },
+  {
+    "id": "ind_scrum",
+    "term": "Scrum",
+    "category": "Industry Terminology",
+    "short_definition": "A popular, structured Agile framework where cross-functional teams deliver working software in fixed-length iterations called sprints.",
+    "simple_explanation": "Scrum provides specific rules and routines for Agile teams. Teams work in 1-to-4-week 'sprints', hold a brief 15-minute daily meeting called a 'standup' to share what they accomplished and what is blocking them, and review their progress at the end of each sprint.",
+    "job_context": "New hires will immediately participate in Scrum rituals: daily standup meetings, sprint planning sessions, and retrospectives where the team discusses how to work better together.",
+    "example": "During the 15-minute morning Scrum standup, a junior developer tells the team: 'Yesterday I finished the login screen styling, today I will connect it to the authentication API, and I have no blockers.'",
+    "related_skills": [
+      "Teamwork",
+      "Sprint Planning",
+      "Active Communication",
+      "Task Estimation"
+    ],
+    "related_terms": [
+      "Agile",
+      "Software Development Life Cycle",
+      "Sprint",
+      "Standup",
+      "Product Backlog"
+    ],
+    "difficulty": "Beginner",
+    "domain": "Software Development",
+    "source": "The Scrum Guide (Ken Schwaber and Jeff Sutherland - scrumguides.org)",
+    "searchable_text": "Term: Scrum\n\nCategory: Industry Terminology\n\nShort Definition:\nA popular, structured Agile framework where cross-functional teams deliver working software in fixed-length iterations called sprints.\n\nSimple Explanation:\nScrum provides specific rules and routines for Agile teams. Teams work in 1-to-4-week 'sprints', hold a brief 15-minute daily meeting called a 'standup' to share what they accomplished and what is blocking them, and review their progress at the end of each sprint.\n\nJob Context:\nNew hires will immediately participate in Scrum rituals: daily standup meetings, sprint planning sessions, and retrospectives where the team discusses how to work better together.\n\nExample:\nDuring the 15-minute morning Scrum standup, a junior developer tells the team: 'Yesterday I finished the login screen styling, today I will connect it to the authentication API, and I have no blockers.'\n\nRelated Skills:\nTeamwork, Sprint Planning, Active Communication, Task Estimation\n\nRelated Terms:\nAgile, Software Development Life Cycle, Sprint, Standup, Product Backlog\n\nDifficulty:\nBeginner\n\nDomain:\nSoftware Development\n\nSource:\nThe Scrum Guide (Ken Schwaber and Jeff Sutherland - scrumguides.org)"
+  }
+]

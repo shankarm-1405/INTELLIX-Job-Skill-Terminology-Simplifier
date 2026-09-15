@@ -1,0 +1,25 @@
+# EMP-12: Job & Skill Terminology Simplifier
+# Core Production Dependencies
+
+# Web Application UI
+streamlit>=1.35.0
+
+# LLM API & SDK
+google-genai>=0.1.0
+
+# Vector Embeddings & Similarity Search
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+
+# Data Validation & Modeling
+pydantic>=2.7.0
+
+# Environment Variable Management
+python-dotenv>=1.0.0
+
+# Scientific Computing & Similarity Utilities
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Testing & Code Quality
+pytest>=8.0.0

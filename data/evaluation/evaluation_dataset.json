@@ -1,0 +1,830 @@
+[
+  {
+    "case_id": "eval_sup_job_01",
+    "query": "What is a Software Developer?",
+    "expected_type": "supported",
+    "expected_category": "Job Roles",
+    "expected_term": "Software Developer",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_job_02",
+    "query": "Can you explain what a data analyst does?",
+    "expected_type": "supported",
+    "expected_category": "Job Roles",
+    "expected_term": "Data Analyst",
+    "difficulty": "Beginner",
+    "variation_type": "natural"
+  },
+  {
+    "case_id": "eval_sup_job_03",
+    "query": "How is a cloud engineer used at work?",
+    "expected_type": "supported",
+    "expected_category": "Job Roles",
+    "expected_term": "Cloud Engineer",
+    "difficulty": "Intermediate",
+    "variation_type": "workplace"
+  },
+  {
+    "case_id": "eval_sup_job_04",
+    "query": "Backend developer role description and responsibilities",
+    "expected_type": "supported",
+    "expected_category": "Job Roles",
+    "expected_term": "Backend Developer",
+    "difficulty": "Intermediate",
+    "variation_type": "role_oriented"
+  },
+  {
+    "case_id": "eval_sup_job_05",
+    "query": "Tell me about full stack developer in simple words",
+    "expected_type": "supported",
+    "expected_category": "Job Roles",
+    "expected_term": "Full Stack Developer",
+    "difficulty": "Beginner",
+    "variation_type": "natural"
+  },
+  {
+    "case_id": "eval_sup_job_06",
+    "query": "What does a UI/UX designer do?",
+    "expected_type": "supported",
+    "expected_category": "Job Roles",
+    "expected_term": "UI/UX Designer",
+    "difficulty": "Beginner",
+    "variation_type": "role_oriented"
+  },
+  {
+    "case_id": "eval_sup_job_07",
+    "query": "DevOps Engineer duties and continuous integration pipelines",
+    "expected_type": "supported",
+    "expected_category": "Job Roles",
+    "expected_term": "DevOps Engineer",
+    "difficulty": "Intermediate",
+    "variation_type": "workplace"
+  },
+  {
+    "case_id": "eval_sup_job_08",
+    "query": "Explain Machine Learning Engineer for beginners",
+    "expected_type": "supported",
+    "expected_category": "Job Roles",
+    "expected_term": "Machine Learning Engineer",
+    "difficulty": "Beginner",
+    "variation_type": "natural"
+  },
+  {
+    "case_id": "eval_sup_job_09",
+    "query": "What are the core tasks of a Database Administrator?",
+    "expected_type": "supported",
+    "expected_category": "Job Roles",
+    "expected_term": "Database Administrator",
+    "difficulty": "Intermediate",
+    "variation_type": "role_oriented"
+  },
+  {
+    "case_id": "eval_sup_job_10",
+    "query": "Explain the role of a Cybersecurity Analyst in enterprise defense",
+    "expected_type": "supported",
+    "expected_category": "Job Roles",
+    "expected_term": "Cybersecurity Analyst",
+    "difficulty": "Advanced",
+    "variation_type": "advanced_wording"
+  },
+  {
+    "case_id": "eval_sup_job_11",
+    "query": "What does a frontend developer build?",
+    "expected_type": "supported",
+    "expected_category": "Job Roles",
+    "expected_term": "Frontend Developer",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_tech_01",
+    "query": "What is Python?",
+    "expected_type": "supported",
+    "expected_category": "Technical Skills",
+    "expected_term": "Python",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_tech_02",
+    "query": "Can you explain SQL in simple words?",
+    "expected_type": "supported",
+    "expected_category": "Technical Skills",
+    "expected_term": "SQL",
+    "difficulty": "Beginner",
+    "variation_type": "natural"
+  },
+  {
+    "case_id": "eval_sup_tech_03",
+    "query": "How is Git used in the workplace for team collaboration?",
+    "expected_type": "supported",
+    "expected_category": "Technical Skills",
+    "expected_term": "Git",
+    "difficulty": "Intermediate",
+    "variation_type": "workplace"
+  },
+  {
+    "case_id": "eval_sup_tech_04",
+    "query": "Explain Docker containerization simply",
+    "expected_type": "supported",
+    "expected_category": "Technical Skills",
+    "expected_term": "Docker",
+    "difficulty": "Beginner",
+    "variation_type": "natural"
+  },
+  {
+    "case_id": "eval_sup_tech_05",
+    "query": "What is REST API and how does it transfer data?",
+    "expected_type": "supported",
+    "expected_category": "Technical Skills",
+    "expected_term": "REST API",
+    "difficulty": "Intermediate",
+    "variation_type": "role_oriented"
+  },
+  {
+    "case_id": "eval_sup_tech_06",
+    "query": "What is AWS and how do companies use it?",
+    "expected_type": "supported",
+    "expected_category": "Technical Skills",
+    "expected_term": "AWS",
+    "difficulty": "Beginner",
+    "variation_type": "workplace"
+  },
+  {
+    "case_id": "eval_sup_tech_07",
+    "query": "Explain Kubernetes cluster orchestration in production systems",
+    "expected_type": "supported",
+    "expected_category": "Technical Skills",
+    "expected_term": "Kubernetes",
+    "difficulty": "Advanced",
+    "variation_type": "advanced_wording"
+  },
+  {
+    "case_id": "eval_sup_tech_08",
+    "query": "What is JavaScript used for in web development?",
+    "expected_type": "supported",
+    "expected_category": "Technical Skills",
+    "expected_term": "JavaScript",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_tech_09",
+    "query": "What is Linux and why do developers use it?",
+    "expected_type": "supported",
+    "expected_category": "Technical Skills",
+    "expected_term": "Linux",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_tech_10",
+    "query": "How does Java work in enterprise software?",
+    "expected_type": "supported",
+    "expected_category": "Technical Skills",
+    "expected_term": "Java",
+    "difficulty": "Intermediate",
+    "variation_type": "workplace"
+  },
+  {
+    "case_id": "eval_sup_tech_11",
+    "query": " python ",
+    "expected_type": "supported",
+    "expected_category": "Technical Skills",
+    "expected_term": "Python",
+    "difficulty": "Beginner",
+    "variation_type": "whitespace_casing"
+  },
+  {
+    "case_id": "eval_sup_emp_01",
+    "query": "What is an internship?",
+    "expected_type": "supported",
+    "expected_category": "Employment Terms",
+    "expected_term": "Internship",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_emp_02",
+    "query": "Can you explain probation in simple terms?",
+    "expected_type": "supported",
+    "expected_category": "Employment Terms",
+    "expected_term": "Probation",
+    "difficulty": "Beginner",
+    "variation_type": "natural"
+  },
+  {
+    "case_id": "eval_sup_emp_03",
+    "query": "What is a notice period when leaving a company?",
+    "expected_type": "supported",
+    "expected_category": "Employment Terms",
+    "expected_term": "Notice Period",
+    "difficulty": "Intermediate",
+    "variation_type": "workplace"
+  },
+  {
+    "case_id": "eval_sup_emp_04",
+    "query": "What does remote work mean for software developers?",
+    "expected_type": "supported",
+    "expected_category": "Employment Terms",
+    "expected_term": "Remote Work",
+    "difficulty": "Beginner",
+    "variation_type": "workplace"
+  },
+  {
+    "case_id": "eval_sup_emp_05",
+    "query": "What is on-the-job training in entry-level roles?",
+    "expected_type": "supported",
+    "expected_category": "Employment Terms",
+    "expected_term": "On-the-Job Training",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_emp_06",
+    "query": "Job description meaning and how candidates should read it",
+    "expected_type": "supported",
+    "expected_category": "Employment Terms",
+    "expected_term": "Job Description",
+    "difficulty": "Beginner",
+    "variation_type": "role_oriented"
+  },
+  {
+    "case_id": "eval_sup_emp_07",
+    "query": "Full-Time Employment definition and standard hours",
+    "expected_type": "supported",
+    "expected_category": "Employment Terms",
+    "expected_term": "Full-Time Employment",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_emp_08",
+    "query": "Explain hybrid work model for modern corporate offices",
+    "expected_type": "supported",
+    "expected_category": "Employment Terms",
+    "expected_term": "Hybrid Work",
+    "difficulty": "Intermediate",
+    "variation_type": "workplace"
+  },
+  {
+    "case_id": "eval_sup_emp_09",
+    "query": "What components are included in a formal job offer letter?",
+    "expected_type": "supported",
+    "expected_category": "Employment Terms",
+    "expected_term": "Job Offer",
+    "difficulty": "Intermediate",
+    "variation_type": "role_oriented"
+  },
+  {
+    "case_id": "eval_sup_emp_10",
+    "query": "Explain the legal significance of an employment contract",
+    "expected_type": "supported",
+    "expected_category": "Employment Terms",
+    "expected_term": "Employment Contract",
+    "difficulty": "Advanced",
+    "variation_type": "advanced_wording"
+  },
+  {
+    "case_id": "eval_sup_qual_01",
+    "query": "What is a bachelor's degree in computer science?",
+    "expected_type": "supported",
+    "expected_category": "Professional Qualifications",
+    "expected_term": "Bachelor's Degree",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_qual_02",
+    "query": "Explain technical certification simply for beginners",
+    "expected_type": "supported",
+    "expected_category": "Professional Qualifications",
+    "expected_term": "Technical Certification",
+    "difficulty": "Beginner",
+    "variation_type": "natural"
+  },
+  {
+    "case_id": "eval_sup_qual_03",
+    "query": "What is a diploma qualification and how does it help job seekers?",
+    "expected_type": "supported",
+    "expected_category": "Professional Qualifications",
+    "expected_term": "Diploma",
+    "difficulty": "Beginner",
+    "variation_type": "workplace"
+  },
+  {
+    "case_id": "eval_sup_qual_04",
+    "query": "What is an industry certification in IT?",
+    "expected_type": "supported",
+    "expected_category": "Professional Qualifications",
+    "expected_term": "Industry Certification",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_qual_05",
+    "query": "Professional certification definition and employer value",
+    "expected_type": "supported",
+    "expected_category": "Professional Qualifications",
+    "expected_term": "Professional Certification",
+    "difficulty": "Intermediate",
+    "variation_type": "workplace"
+  },
+  {
+    "case_id": "eval_sup_qual_06",
+    "query": "What is a vocational qualification?",
+    "expected_type": "supported",
+    "expected_category": "Professional Qualifications",
+    "expected_term": "Vocational Qualification",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_qual_07",
+    "query": "Master's degree explanation for advanced career specialization",
+    "expected_type": "supported",
+    "expected_category": "Professional Qualifications",
+    "expected_term": "Master's Degree",
+    "difficulty": "Intermediate",
+    "variation_type": "role_oriented"
+  },
+  {
+    "case_id": "eval_sup_qual_08",
+    "query": "What does degree qualification mean on a job application?",
+    "expected_type": "supported",
+    "expected_category": "Professional Qualifications",
+    "expected_term": "Degree Qualification",
+    "difficulty": "Beginner",
+    "variation_type": "role_oriented"
+  },
+  {
+    "case_id": "eval_sup_qual_09",
+    "query": "How is professional qualification defined by governing bodies?",
+    "expected_type": "supported",
+    "expected_category": "Professional Qualifications",
+    "expected_term": "Professional Qualification",
+    "difficulty": "Advanced",
+    "variation_type": "advanced_wording"
+  },
+  {
+    "case_id": "eval_sup_qual_10",
+    "query": "BACHELOR'S DEGREE",
+    "expected_type": "supported",
+    "expected_category": "Professional Qualifications",
+    "expected_term": "Bachelor's Degree",
+    "difficulty": "Beginner",
+    "variation_type": "whitespace_casing"
+  },
+  {
+    "case_id": "eval_sup_ind_01",
+    "query": "What is an API in software development?",
+    "expected_type": "supported",
+    "expected_category": "Industry Terminology",
+    "expected_term": "API",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_ind_02",
+    "query": "What is CI/CD in automated deployment?",
+    "expected_type": "supported",
+    "expected_category": "Industry Terminology",
+    "expected_term": "CI/CD",
+    "difficulty": "Intermediate",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_ind_03",
+    "query": "Explain Agile methodology simply for new developers",
+    "expected_type": "supported",
+    "expected_category": "Industry Terminology",
+    "expected_term": "Agile",
+    "difficulty": "Beginner",
+    "variation_type": "natural"
+  },
+  {
+    "case_id": "eval_sup_ind_04",
+    "query": "What is a code repository?",
+    "expected_type": "supported",
+    "expected_category": "Industry Terminology",
+    "expected_term": "Repository",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_ind_05",
+    "query": "What does deployment mean in tech?",
+    "expected_type": "supported",
+    "expected_category": "Industry Terminology",
+    "expected_term": "Deployment",
+    "difficulty": "Beginner",
+    "variation_type": "role_oriented"
+  },
+  {
+    "case_id": "eval_sup_ind_06",
+    "query": "What is open source software?",
+    "expected_type": "supported",
+    "expected_category": "Industry Terminology",
+    "expected_term": "Open Source",
+    "difficulty": "Beginner",
+    "variation_type": "direct"
+  },
+  {
+    "case_id": "eval_sup_ind_07",
+    "query": "What is Scrum and how do teams run sprints?",
+    "expected_type": "supported",
+    "expected_category": "Industry Terminology",
+    "expected_term": "Scrum",
+    "difficulty": "Intermediate",
+    "variation_type": "workplace"
+  },
+  {
+    "case_id": "eval_sup_ind_08",
+    "query": "Can you explain what a framework is in programming?",
+    "expected_type": "supported",
+    "expected_category": "Industry Terminology",
+    "expected_term": "Framework",
+    "difficulty": "Beginner",
+    "variation_type": "natural"
+  },
+  {
+    "case_id": "eval_sup_ind_09",
+    "query": "Explain the Software Development Life Cycle phases",
+    "expected_type": "supported",
+    "expected_category": "Industry Terminology",
+    "expected_term": "Software Development Life Cycle",
+    "difficulty": "Intermediate",
+    "variation_type": "role_oriented"
+  },
+  {
+    "case_id": "eval_sup_ind_10",
+    "query": "What is cloud computing in simple terms?",
+    "expected_type": "supported",
+    "expected_category": "Industry Terminology",
+    "expected_term": "Cloud Computing",
+    "difficulty": "Beginner",
+    "variation_type": "natural"
+  },
+  {
+    "case_id": "eval_unk_01",
+    "query": "What is quantum entanglement?",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Intermediate",
+    "variation_type": "unknown_physics"
+  },
+  {
+    "case_id": "eval_unk_02",
+    "query": "Can you explain astrophysics?",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "unknown_astronomy"
+  },
+  {
+    "case_id": "eval_unk_03",
+    "query": "What is genetic mutation in biology?",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Intermediate",
+    "variation_type": "unknown_biology"
+  },
+  {
+    "case_id": "eval_unk_04",
+    "query": "Explain geological stratification",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Advanced",
+    "variation_type": "unknown_geology"
+  },
+  {
+    "case_id": "eval_unk_05",
+    "query": "How does photosynthesis convert sunlight?",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "unknown_botany"
+  },
+  {
+    "case_id": "eval_unk_06",
+    "query": "What is plate tectonics in geology?",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "unknown_geology"
+  },
+  {
+    "case_id": "eval_unk_07",
+    "query": "What is a black hole event horizon?",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Intermediate",
+    "variation_type": "unknown_astronomy"
+  },
+  {
+    "case_id": "eval_unk_08",
+    "query": "Explain dark matter in the universe",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Intermediate",
+    "variation_type": "unknown_astronomy"
+  },
+  {
+    "case_id": "eval_unk_09",
+    "query": "What is CRISPR gene editing?",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Intermediate",
+    "variation_type": "unknown_genetics"
+  },
+  {
+    "case_id": "eval_unk_10",
+    "query": "Explain organic chemistry reaction mechanisms",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Advanced",
+    "variation_type": "unknown_chemistry"
+  },
+  {
+    "case_id": "eval_unk_11",
+    "query": "What is the function of mitochondria in human cells?",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "unknown_biology"
+  },
+  {
+    "case_id": "eval_unk_12",
+    "query": "Explain superconductivity at low temperatures",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Advanced",
+    "variation_type": "unknown_physics"
+  },
+  {
+    "case_id": "eval_unk_13",
+    "query": "What is the second law of thermodynamics?",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Intermediate",
+    "variation_type": "unknown_physics"
+  },
+  {
+    "case_id": "eval_unk_14",
+    "query": "Explain nuclear fission and reactor core mechanics",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Advanced",
+    "variation_type": "unknown_physics"
+  },
+  {
+    "case_id": "eval_unk_15",
+    "query": "What causes platelet count deficiency in blood tests?",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Intermediate",
+    "variation_type": "unknown_medical"
+  },
+  {
+    "case_id": "eval_unk_16",
+    "query": "Explain Einstein's theory of general relativity",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Advanced",
+    "variation_type": "unknown_physics"
+  },
+  {
+    "case_id": "eval_unk_17",
+    "query": "What is molecular nanotechnology?",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Advanced",
+    "variation_type": "unknown_nanotech"
+  },
+  {
+    "case_id": "eval_unk_18",
+    "query": "Explain stem cell differentiation in human embryos",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Intermediate",
+    "variation_type": "unknown_biology"
+  },
+  {
+    "case_id": "eval_unk_19",
+    "query": "How is sedimentary rock formed over geological eras?",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Intermediate",
+    "variation_type": "unknown_geology"
+  },
+  {
+    "case_id": "eval_unk_20",
+    "query": "What is polymerase chain reaction in genetic testing?",
+    "expected_type": "unknown",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Advanced",
+    "variation_type": "unknown_genetics"
+  },
+  {
+    "case_id": "eval_oos_01",
+    "query": "What is today's weather in New York?",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "weather"
+  },
+  {
+    "case_id": "eval_oos_02",
+    "query": "Tell me a joke to make me laugh.",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "humor"
+  },
+  {
+    "case_id": "eval_oos_03",
+    "query": "Write a poem about a tall green oak tree.",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "creative_writing"
+  },
+  {
+    "case_id": "eval_oos_04",
+    "query": "What is the capital of France?",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "trivia"
+  },
+  {
+    "case_id": "eval_oos_05",
+    "query": "Book me a flight from New York to London.",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "travel_booking"
+  },
+  {
+    "case_id": "eval_oos_06",
+    "query": "Give me a recipe for baking chocolate chip cookies.",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "recipe"
+  },
+  {
+    "case_id": "eval_oos_07",
+    "query": "Who won the cricket world cup tournament?",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "sports"
+  },
+  {
+    "case_id": "eval_oos_08",
+    "query": "What is the best smartphone to buy under $500?",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "shopping"
+  },
+  {
+    "case_id": "eval_oos_09",
+    "query": "Calculate my monthly mortgage payments on a $300k house.",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "personal_finance"
+  },
+  {
+    "case_id": "eval_oos_10",
+    "query": "Compose a love song with rhyming lyrics.",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "creative_writing"
+  },
+  {
+    "case_id": "eval_oos_11",
+    "query": "How to bake homemade sourdough bread from scratch?",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "recipe"
+  },
+  {
+    "case_id": "eval_oos_12",
+    "query": "Reserve a table for four at an Italian restaurant tonight.",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "travel_booking"
+  },
+  {
+    "case_id": "eval_oos_13",
+    "query": "Who is the current president of France?",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "politics"
+  },
+  {
+    "case_id": "eval_oos_14",
+    "query": "Is it going to rain this afternoon in Seattle?",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "weather"
+  },
+  {
+    "case_id": "eval_oos_15",
+    "query": "Where can I buy a new iPhone 15 online?",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "shopping"
+  },
+  {
+    "case_id": "eval_oos_16",
+    "query": "Recommend a good Italian pizza place nearby.",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "shopping"
+  },
+  {
+    "case_id": "eval_oos_17",
+    "query": "Write a short fantasy story about a fire-breathing dragon.",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "creative_writing"
+  },
+  {
+    "case_id": "eval_oos_18",
+    "query": "Show me the current Premier League football standings.",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "sports"
+  },
+  {
+    "case_id": "eval_oos_19",
+    "query": "Book a hotel room in downtown Tokyo for next weekend.",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "travel_booking"
+  },
+  {
+    "case_id": "eval_oos_20",
+    "query": "How do I make creamy tomato basil soup?",
+    "expected_type": "out_of_scope",
+    "expected_category": null,
+    "expected_term": null,
+    "difficulty": "Beginner",
+    "variation_type": "recipe"
+  }
+]

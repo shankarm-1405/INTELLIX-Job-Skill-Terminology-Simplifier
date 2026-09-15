@@ -1,0 +1,33 @@
+# Version Control
+.git/
+.gitignore
+
+# Environment & Credentials
+.env
+.env.*
+*.env.local
+.streamlit/secrets.toml
+
+# Python Bytecode and Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.pkl
+models/cache/
+
+# Test and Evaluation Scripts/Data
+tests/
+data/evaluation/
+docs/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# System and IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
